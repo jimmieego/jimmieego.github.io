@@ -6,8 +6,6 @@ published: true
 ---
 
 
-## About
-
 I am a human factors and user experience researcher with rich experience in shaping complex technology to promote usability and user experience. My involvement in the user-centered design process includes user research, conceptual design, prototyping and interaction design, and iterative usability evaluation.
 
 Currently I am working as the Digital User Experience Specialist at [Purdue University Libraries](http://www.lib.purdue.edu). I have worked on a number of user experience design and research projects focused on the library's website and other web applications such as the [Data Management Planning Tool](https://dmptool.org/) and [HABRI Central](https://habricentral.org/). Before joining Purdue I worked as a Research Associate in the Human-Machine Teaming Lab of the Electrical Engineering and Computer Science Department at Vanderbilt University, Nashville, Tennessee. I worked very closely with software developers and robotics researchers to conduct user experience design and research for developing human-robot interface in emergency response (search and rescue) scenarios.
