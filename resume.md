@@ -66,18 +66,21 @@ Department of Industrial and Systems Engineering, North Carolina State Universit
 Institute of Human Factors and Ergonomics, Tsinghua University, Beijing, China
 
 **Project 1**: eLong.com Travel Website Usability Test and Redesign
--	Conducted user interview and task analysis on existing website.
--	Created user profiles (personas) for prototypes based on cluster analysis of user behavior.
--	Conducted usability test of redesigned flight and hotel search results pages.
+
+-	Conducted user interview and task analysis on existing website.  
+-	Created user profiles (personas) for prototypes based on cluster analysis of user behavior.  
+-	Conducted usability test of redesigned flight and hotel search results pages.  
 
 **Project 2**: SAP-Supported Cross Culture User Interface Study
--	Designed web portal prototypes and measured Chinese users’ visual search performance.
--	Statistical analysis indicated significant cultural differences of visual search pattern between Chinese and western visual styles.
+
+-	Designed web portal prototypes and measured Chinese users’ visual search performance.  
+-	Statistical analysis indicated significant cultural differences of visual search pattern between Chinese and western visual styles.  
 
 **Project 3**: Samsung Digital TV User Interface Evaluation and Improvement for Chinese Users
--	Conducted market survey and usability evaluation of existing Digital TV remote control hardware and interface designs. 
--	Developed interface prototypes based on Chinese user preferences.
--	Proposed design guidelines to customize future Digital TVs for Chinese market.
+
+-	Conducted market survey and usability evaluation of existing Digital TV remote control hardware and interface designs.   
+-	Developed interface prototypes based on Chinese user preferences.  
+-	Proposed design guidelines to customize future Digital TVs for Chinese market.  
 
 
 ##EDUCATION
