@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: page-no-title
 title: Resume
 permalink: /resume/
 published: true
 ---
-
-
-## Tao Zhang
 
 
 Address:  	3631 E. Chauncey Ct., Apt H, Lafayette, IN 47905
@@ -27,9 +24,10 @@ Purdue University Libraries, West Lafayette, IN
 - Plan and conduct usability assessment to make design recommendations to stakeholders based on user feedback.  
 
 **Projects** include:
-- User research, interface design and implementation of a crowdsourcing online help system for library users ([CrowdAsk](https://sites.lib.purdue.edu/crowdask/index.php)).
-- User interface design for [Data Management Plan Tool](https://dmptool.org/).
-- User study, interface design and usability evaluation for [Purdue University Libraries website](http://www.lib.purdue.edu).
+
+- User research, interface design and implementation of a crowdsourcing online help system for library users ([CrowdAsk](https://sites.lib.purdue.edu/crowdask/index.php)).  
+- User interface design for [Data Management Plan Tool](https://dmptool.org/).  
+- User study, interface design and usability evaluation for [Purdue University Libraries website](http://www.lib.purdue.edu).  
 - Usability evaluation and user interface improvement for Human-Animal Bond Research Initiative Central website ([HABRI Central](http://habricentral.org)).
 
 ### Research Associate, 09/2009 to 10/2011
