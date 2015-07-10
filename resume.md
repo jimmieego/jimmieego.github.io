@@ -5,6 +5,7 @@ permalink: /resume/
 published: true
 ---
 
+
 ## Tao Zhang
 
 
@@ -20,9 +21,10 @@ Human factors and user experience researcher skilled in user studies, conceptual
 ## EXPERIENCE
 ### Digital User Experience Specialist, 10/2011 to Present
 Purdue University Libraries, West Lafayette, IN
-- Independently plan and conduct user research including identification of user needs and goals (through interviews, focus groups, and contextual inquiry), as well as task and workflow modeling.
-- Work with development team and content owners to follow user-centered design approach and develop effective user interface and information architecture for library website, web applications and digital collections.
-- Plan and conduct usability assessment to make design recommendations to stakeholders based on user feedback.
+
+- Independently plan and conduct user research including identification of user needs and goals (through interviews, focus groups, and contextual inquiry), as well as task and workflow modeling.  
+- Work with development team and content owners to follow user-centered design approach and develop effective user interface and information architecture for library website, web applications and digital collections.  
+- Plan and conduct usability assessment to make design recommendations to stakeholders based on user feedback.  
 
 **Projects** include:
 - User research, interface design and implementation of a crowdsourcing online help system for library users ([CrowdAsk](https://sites.lib.purdue.edu/crowdask/index.php)).
