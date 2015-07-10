@@ -51,13 +51,16 @@ Department of Electrical Engineering and Computer Science, Vanderbilt University
 Department of Industrial and Systems Engineering, North Carolina State University, Raleigh, NC
 
 **Project 1**: Anthropomorphism and Emotions in Human-Robot Interaction
-- Designed and configured a service robot for medicine delivery.
-- Conducted field evaluations with elderly end-users at two senior centers in North Carolina and collected physiological and subjective responses to robot interface features.
-- Data analysis identified key interface features affecting user emotional experience (arousal and valence) in interacting with service robot.
+
+- Designed and configured a service robot for medicine delivery.  
+- Conducted field evaluations with elderly end-users at two senior centers in North Carolina and collected physiological and subjective responses to robot interface features.  
+- Data analysis identified key interface features affecting user emotional experience (arousal and valence) in interacting with service robot.  
 
 **Project 2**: Use of Virtual Reality for Assessing Situation Awareness in Multitasking including Locomotion
-- Worked as experimenter with participants to collect gait and situation awareness measures. 
-- Conducted statistical data analysis and developed a model of situation awareness for multitasking with locomotion for explaining proactive gait control in response to locomotion hazards.
+
+- Worked as experimenter with participants to collect gait and situation awareness measures.   
+- Conducted statistical data analysis and developed a model of situation awareness for multitasking with locomotion for explaining proactive gait control in response to locomotion hazards.  
+
 
 ### Graduate Research Assistant, 09/2004 to 07/2006
 Institute of Human Factors and Ergonomics, Tsinghua University, Beijing, China
