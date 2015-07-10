@@ -19,7 +19,7 @@ Email: 	[zhangtao2000@gmail.com](mailto:zhangtao2000@gmail.com)
 Human factors and user experience researcher skilled in user studies, conceptual design, information architecture, and usability evaluation. Analytical thinker trained as an engineer who prefers to focus on the human element in system design.
 
 ## EXPERIENCE
-### Digital User Experience Specialist, 10/2011 to Present
+### Digital User Experience Specialist, 10/2011 to Present  
 Purdue University Libraries, West Lafayette, IN
 
 - Independently plan and conduct user research including identification of user needs and goals (through interviews, focus groups, and contextual inquiry), as well as task and workflow modeling.  
