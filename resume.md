@@ -5,9 +5,6 @@ permalink: /resume/
 published: true
 ---
 
-
-Address:  	3631 E. Chauncey Ct., Apt H, Lafayette, IN 47905
-
 Tel.: 	(765) 496-3869 (O), (919) 448-5042 (H)  
 
 Email: 	[zhangtao2000@gmail.com](mailto:zhangtao2000@gmail.com) 
