@@ -27,9 +27,9 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">About</a>
-            <a href="{{ site.baseurl }}/projects">Projects</a>
-            <a href="{{ site.baseurl }}/resume">Resume</a>
+            <a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}current{% endif %}">About</a>
+            <a href="{{ site.baseurl }}/projects" class="{% if page.url contains 'projects' %}current{% endif %}">Projects</a>
+            <a href="{{ site.baseurl }}/resume" class="{% if page.url contains 'resume' %}current{% endif %}">Resume</a>
           </nav>
         </header>
       </div>
