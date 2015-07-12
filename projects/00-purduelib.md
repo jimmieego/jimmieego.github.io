@@ -7,6 +7,9 @@ image: images/homepage_mockup_0722.jpg
 excerpt: The previous Purdue University Libraries website was designed several years ago. It was based on static HTML pages and there are usability issues like consistency and outdated content. A redesign is needed to introduce a content management system to establish a consistent content strategy. The redesign also needs to meet users' expectation of a modern, sleek, and simple user interface for information discovery and use of the library services. I worked as a user experience researcher/designer to lead the redesign effort. I applied a typical user-centered design process for this project, starting from user research, persona creation, prototyping, implementation, and user testing.
 ---
 
+**Method**: Focus Group, User Interview, Persona Creation, Content Analysis, Wireframing, Usability Testing    
+**Tools**: Balsamiq, Morae, Google Analytics
+
 ##Background  
 The Purdue University Libraries website has become a significant aspect of the Libraries and the services they provide, as the demand and consequently number of online journals, books, and databases continues to increase. The design and user experience of the website is critical for the libraries to provide essential services to users in a timely and efficient manner. The current website was implemented based on static HTML pages. Content was difficult to update and user experience was not consistent across the website. The new website is built on Drupal content management system, which makes maintaining content and visual apperance much easier.
 

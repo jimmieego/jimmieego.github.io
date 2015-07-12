@@ -7,6 +7,10 @@ image: images/HABRICentral-Home.png
 excerpt: This project was an empirical usability evaluation of HABRI (Human-Animal Bond Research Initiative) Central as part of the effort to develop an open access research repository and collaboration platform for human-animal bond researchers. HABRI Central hosts previously published materials from related disciplines and an extensive bibliography, in addition to traditional hub materials such as tools and datasets. Results of the evaluation showed that the overall user experience of HABRI Central was satisfactory, but also indicated a number of usability issues. It is expected that findings from this study and the evaluation methodology can be extended to the development and evaluation of similar research repository systems.
 ---
 
+**Method**: Questionnaire Survey, Usability Testing   
+**Tools**: Silverback, Morae, SAS 
+
+
 ##Background  
 The HABRI Central website serves as an open access research repository for human-animal bond research materials (literature, data sets, videos, etc.) from all relevant disciplines. HABRI Central promotes new research by facilitating every stage of the research cycle, including enhancing discoverability of existing research, facilitating collaborations between scholars, increasing visibility of new research, and providing a stable storage space for all research content. HABRI Central is built upon the HUBzero platform for collaborative scientific research which is itself built upon the Joomla! content management system.
 
@@ -34,6 +38,8 @@ I also took notes about participants’ behavior during the tasks, such as pause
 The results revealed that the separation of resources and bibliography due to adaptation of the HUBzero platform caused some confusion among participants, and certain steps of the resource submission process (e.g., selecting resource type and adding authors) could be improved to provide clear guidance and facilitate user input. The usability evaluation also showed that the HABRI Central interface should conform to common web layout guidelines so that users can relate past experiences to using functional links on HABRI Central.
 
 ##Related publications    
-For a detailed list of usability issues, please download the [report](/assets/HABRICentralUsabilityIssues.pdf). This project was also presented at the [HUBbub 2012 Conference](https://hubzero.org/resources/824).   
+For a detailed list of usability issues, please download the [report](/assets/HABRICentralUsabilityIssues.pdf). 
 
-Zhang, T., Maron, D. J., & Charles, C. C. (2013). [Usability evaluation of a research repository and collaboration website](http://www.tandfonline.com/doi/abs/10.1080/19322909.2013.739041#.VaG6QxNViko). Journal of Web Librarianship, 7(1), 58-82.
+Zhang, T., Deborah, J. M., & Christopher C. C. (2012). [Usability evaluation of a research repository and collaboration website for human-animal bond researchers](https://hubzero.org/resources/824). Presentation at the *Third HUBzero Conference* (HUBbub 2012).
+
+Zhang, T., Maron, D. J., & Charles, C. C. (2013). [Usability evaluation of a research repository and collaboration website](http://www.tandfonline.com/doi/abs/10.1080/19322909.2013.739041#.VaG6QxNViko). *Journal of Web Librarianship*, 7(1), 58-82.
