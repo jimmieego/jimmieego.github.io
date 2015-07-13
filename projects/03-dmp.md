@@ -30,5 +30,22 @@ I quickly adapted to the needs of different stakeholders and maintained high qua
 
 [Wireframes for DMP Tool 2](http://ux.cdlib.org/mstrong/DMP_Prototype_0304/)
 
+##Creating Wireframes
+The rapid prototyping, or design of wireframes for DMPTool, involved multiple iterations of a three-step process: 
+
+1. convert the use cases and functional requirements into interface designs, factoring in user experience standards and best practices;
+2. share the wireframes with stakeholder community and evaluate whether the design meets their needs and expectations;
+3. based on feedback, identify elements of design that need to be refined or further defined. From the use cases we extracted sequences of steps (workflow) the user will undertake to perform a task (e.g., creating a DMP plan).
+
+I mapped the workflows to DMPTool application pages and identified the transition points between pages. The design of high-level workflows helped the project team understand how DMPTool’s functionality should be logically organized from the user’s perspective. 
+
+I then used the functional requirements as guidelines to determine the interface elements on each application page. The focus of designing the application pages was to visualize key features and interactions, including overview pages showing information about DMP Plans and Templates; in-page editing functions for DMP Plans, Templates, and Resources; and administrative pages for institutional administrators, DMP Reviewers, Template Editors, and Resource Editors.
+
+I used Axure for developing wireframes of DMPTool with a custom stencil library. I designed common visual elements (e.g., navigation, header, footer, etc.) as “Masters” (shared components) across application pages. I also used real content whenever possible to accurately predict the appearance of pages when they are implemented.
+
+I also developed individual pages for each possible page status depending on the context of user interaction. I actively communicated all designs with the stakeholder communities and applied their feedback in the design iterations. 
+
+Important changes to the functional requirements (and ultimately wireframes) based on stakeholder feedback include: DMP plan state transition table, publishing and sharing of DMP Plans, and DMP plan review workflow. The finalized wireframes were used as blueprints of the DMPTool application during the later implementation process.
+
 ##Related publications
 Zhang, T., and Witt, Michael. (September 6, 2013). [DMPTool: Expert Resources and Support for Data Management Planning](https://hubzero.org/resources/1062). Presentation at the *Fourth HUBzero Conference* (HUBbub 2013).
