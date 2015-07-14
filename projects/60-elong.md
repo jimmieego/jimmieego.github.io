@@ -4,21 +4,22 @@ title: eLong.com Travel Website Usability Test and Redesign
 folder: projects
 type: project
 image: images/elong_portal1.jpg
-excerpt: eLong.com is one of the biggest travel reservation service companies in China partered with Expedia. Its main business is selling airline tickets, hotel reservations, and vacation packages at discounted price via the company website and telephone booking system. The management wanted to build the next version of the company's website based on user experience research. We are hired as a consulting team to inject the user-centered design concept into the redesign and testing process.
+excerpt: eLong.com is one of the biggest travel reservation service companies in China partered with Expedia. Its main business is selling airline tickets, hotel reservations, and vacation packages at discounted price via the company website and telephone booking system. The management wanted to build the next version of the company's website based on user experience research. We were hired as a consulting team to inject the user-centered design concept into the redesign and testing process.
 ---
 
 **Method**: User Interview, Questionnaire Survey, Persona Creation, HTML Protyping, Usability Testing  
 **Tools**: HTML, CSS, JavaScript
 
 ##Background
-eLong.com is a travel service company partered with Expedia. Its main business is selling airline tickets, hotel reservations, and vacation packages at discounted price via the company website and telephone booking system. The management wanted to build the next version of the company's website. We are hired as a consulting team to inject the user-centered design concept (figure below) into the redesign and testing process.
+eLong.com is a travel service company partered with Expedia. Its main business is selling airline tickets, hotel reservations, and vacation packages at discounted price via the company website and telephone booking system. The management wanted to build the next version of the company's website. We were hired as a consulting team to inject the user-centered design concept (figure below) into the redesign and testing process.
 
+Our design and test process:  
 ![UCD process]({{ site.baseurl }}/images/UCDprocess.jpg)
 
 ##Method
-We interviewed 20 frequent users of eLong.com, extracted their profiles, and then used a combined apporach including quantitative cluster analysis and qualitative abstraction to create personas for design goal-setting and evaluation. We also designed new prototypes and recruited another 10 users to test the new design in terms of task flow and usability improvements.
+We interviewed 20 frequent users of eLong.com, extracted their profiles, and then used a mixed apporach including quantitative cluster analysis and qualitative abstraction to create personas for design goal-setting and evaluation. We also designed new prototypes and recruited another 10 users to test the new design in terms of task flow and usability improvements.
 
-##Personas
+##Sample Personas
 
 **David**
 

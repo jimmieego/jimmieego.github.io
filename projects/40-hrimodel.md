@@ -4,7 +4,7 @@ title: Human Performance Modeling for Human-Robot Peer-Based Teams
 folder: projects
 type: project
 image: images/human_performance.jpg
-excerpt: Human-Robot peer-based teams are evolving from a far-off possibility into a reality. Human Performance Moderator Functions (HPMFs) can be used to predict human behavior by incorporating the effects of internal and external influences such as fatigue and workload. The applicability of HPMFs to human-robot teams is not proven. This research focuses on determining the applicability of workload HPMFs in team tasks for first response mass casualty triage incidents between a Human-Human and a Human-Robot team. A model representing workload for each team was developed using IMPRINT Pro. The results from an empirical evaluation were compared to the model results. While significant differences between the two conditions were not found in all data, there was a general trend that workload in the human-robot condition was slightly lower than the workload experienced in the human-human condition. This trend was predicted by the IMPRINT Pro models. These results are the first to indicate that existing HPMFs can be applied to human-robot peer-based teams.
+excerpt: Human-Robot peer-based teams are evolving from a far-off possibility into a reality. Human Performance Moderator Functions (HPMFs) can be used to predict human behavior by incorporating the effects of internal and external influences such as fatigue and workload. This research focuses on determining the applicability of workload HPMFs in team tasks for first response mass casualty triage incidents between a Human-Human and a Human-Robot team. 
 ---
 
 **Methods**: Experiment Design, Mixed Model Statistical Analysis  
@@ -30,9 +30,12 @@ Experiment video of Human-Human condition:
 Experiment video of Human-Robot condition:
 <iframe width="420" height="315" src="https://www.youtube.com/embed/JKVOSJJHb6c" frameborder="0" allowfullscreen></iframe>
 
-
 ##Results
 Both the models and the empirical evaluation found that the human-robot condition generally results in lower workload than the human-human condition. As well, the empirical results generally mirror the model results for each condition, with the human-robot peer-based team model slightly overestimating the measured workload. This research provides initial support for the applicability of a current workload HPMF (for human-only teams) to human-robot peer-based teams.
+
+<!--
+A model representing workload for each team was developed using IMPRINT Pro. The results from an empirical evaluation were compared to the model results. While significant differences between the two conditions were not found in all data, there was a general trend that workload in the human-robot condition was slightly lower than the workload experienced in the human-human condition. This trend was predicted by the IMPRINT Pro models. These results are the first to indicate that existing HPMFs can be applied to human-robot peer-based teams.
+-->	
 
 ##Related publications:
 Harriott, C. E., Buford, G. L., Zhang, T., & Adams, J. A. (In Press). Measuring human workload in a collaborative human-robot team. *Journal of Human-Robot Interaction*.

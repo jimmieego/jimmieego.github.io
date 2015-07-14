@@ -4,17 +4,17 @@ title: Redesign Purdue University Libraries Website
 folder: projects
 type: project
 image: images/homepage_mockup_0722.jpg
-excerpt: The previous Purdue University Libraries website was designed several years ago. It was based on static HTML pages and there are usability issues like consistency and outdated content. A redesign is needed to introduce a content management system to establish a consistent content strategy. The redesign also needs to meet users' expectation of a modern, sleek, and simple user interface for information discovery and use of the library services. I worked as a user experience researcher/designer to lead the redesign effort. I applied a typical user-centered design process for this project, starting from user research, persona creation, prototyping, implementation, and user testing.
+excerpt: The previous Purdue University Libraries website was designed several years ago. It was based on static HTML pages and there were usability issues due to inconsistency and outdated content. A redesign was needed to introduce a content management system and establish a consistent content strategy. I worked as a user experience researcher/designer to lead the redesign effort. I applied a typical user-centered design process for this project, starting from user research, persona creation, prototyping, implementation, to iterative user testing.
 ---
 
 **Method**: Focus Group, User Interview, Persona Creation, Content Analysis, Wireframing, Usability Testing    
 **Tools**: Balsamiq, Morae, Google Analytics
 
 ##Background  
-The Purdue University Libraries website has become a significant aspect of the Libraries and the services they provide, as the demand and consequently number of online journals, books, and databases continues to increase. The design and user experience of the website is critical for the libraries to provide essential services to users in a timely and efficient manner. The current website was implemented based on static HTML pages. Content was difficult to update and user experience was not consistent across the website. The new website is built on Drupal content management system, which makes maintaining content and visual apperance much easier.
+The Purdue University Libraries website is a significant part of the Libraries' services, as the demand of online journals, books, and databases continues to increase. The design and user experience of the website is critical for the libraries to provide essential services to users. The previous website was implemented on static HTML pages. Content was difficult to update and user experience was not consistent across the website. The new website is built on Drupal content management system, which makes maintaining content and visual apperance much easier.
 
 ##Method    
-I first conducted focus groups with undergraduate and graduate students to understand their use of the current library website and expectations. I also did one-and-one interviews with graduate students, faculty, and librarians to understand their behavior, usage pattern, and requirements. The focus groups and interviews provided valuable information for me to create personas and drive prototype development.  
+I first conducted focus groups with undergraduate and graduate students to understand their use of the library website and expectations. I also did one-and-one interviews with graduate students, faculty, and librarians to understand their information seeking behavior, preferences, and requirements. The focus groups and interviews provided valuable information for me to create personas and drive prototype development.  
 
 [Questions used in focus groups](/assets/FocusGroupScript.pdf)      
 [Questions used in interviews](/assets/UserInterviewScript.pdf)  
@@ -53,21 +53,27 @@ I first conducted focus groups with undergraduate and graduate students to under
 *Information or Functions Needed*: Credible and high quality search results; flexible and easy to understand search and results refine options; better navigation of library guides and the library website; better understanding of library service, events, and reserach projects.
 
 
-##Prototypes  
-Homepage wireframe  
+##Sample Prototypes  
+Homepage wireframe
+
 ![Homepage wireframe]({{ site.baseurl }}/images/Purdue/Homepage.png)
 
-Homepage mockup  
+Homepage mockup
+
 ![Homepage mockup]({{ site.baseurl }}/images/Purdue/homepage_mockup_0722.jpg)
 
-Homepage navigation  
+Homepage navigation
+
 ![Homepage mockup]({{ site.baseurl }}/images/Purdue/navigation_0722.jpg)
 
-Engineering Library Page Wireframe  
+Engineering Library Page Wireframe
+
 ![Homepage mockup]({{ site.baseurl }}/images/Purdue/Engineering_library.png)
 
-Archives and Special Collections Page Wireframe  
+Archives and Special Collections Page Wireframe
+
 ![Homepage mockup]({{ site.baseurl }}/images/Purdue/Archives_2.png)
 
-Library Information Page Mockup  
+Library Information Page Mockup
+
 ![Homepage mockup]({{ site.baseurl }}/images/Purdue/libraryPage.jpg)

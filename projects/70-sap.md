@@ -11,29 +11,26 @@ excerpt: This project conceptualizes cultural differences and explores practice 
 **Tools**: HTML, JavaScript
 
 ##Background
-Interest in the influence of culture on user interface design has grown both in the HCI community and IT industry. Culture issue in interface design is especially important in China, with an economy growing quickly and the greatest user populations in the future. This project served as an important basis to thoroughly understand different cultural traits in designing user interface for Chinese users. To incorporate issues arising from the industry, this project conceptualizes cultural differences and explores practice in interface design for Chinese users. With an experiment study, we examined the effects of design style on information search performance and workload of Chinese users and proposed design guidelines from the analysis of results. We also investigated culture patterns in website design from Chinese users' perspective and compared the results with those of the previous study on US and Korean cultures.
+Culture issue in interface design is important in China, with an economy growing quickly and the potentially largest user population. In 2006, this project aimed to conceptualize cultural differences and examine practices in interface design for Chinese users. We examined the effect of design style on visual search performance and task workload for Chinese users. We proposed design guidelines from the analysis of experiment results. We also investigated culture patterns in website design from Chinese users' perspective and compared the results with previous studies on western cultures.
 
 ##Project Outline
-The objective of this project was to contribute knowledge and design practice to SAP enterprise software design for different cultures. The main tasks completed for the project were:  
+The objective of this project was to contribute empirical knowledge and design guidelines to SAP enterprise software design for different cultures. The main tasks for the project were:
 
-- Initial investigation, including a review of the literature, and a sampling of a large number of interfaces, aims at identify differences in interface design between Chinese, Korean, European, and US cultures;
-- Design and exploration of prototype interfaces which reflect the information organization and design style of current Chinese web portals;  
-- Development and deployment of a user study to assess the performance and attitude of two typical Chinese user groups with the prototype interfaces.
+- Initial investigation, including literature review and sampling of a wide range of websites, aiming at identifying differences in interface design between Chinese and western cultures;  
+- Design website prototypes representing common design styles of Chinese web portals;  
+- Conducting a user study to assess the visual search performance and task worload of two typical Chinese user groups with low and high Internet experiences.
 
 ##Test Plan
-The test is designed to assigning participants to execute a series of practical tasks involving web navigation in 2 different design styles of a web application. In each individual test, the style element of design is controlled. Task content is derived from real application on an e-commerce web site, including registration, browsing, Email, online shopping, and order processing. 
+In the user test, participants performed a series of visual search tasks on an online book store with two different design styles. The simple visual design style was similar to most western web portals at the time, with clear hierarchical links and brief texts; and the complex visual design style was a representation of major Chinese web portals, with detailed information upfront and no structured links. 
 
-Task types were: 
+The tasks were similar to real online shopping experience. Participant were asked to find specific books on the website that matched with task instructions. Participants performed eight search tasks with each design style.
 
-- (Specific) search and buy specific products; 
-- (General) search and buy one type (generally, not confined to specific product).
+Response measures of the test were:
 
-Each participant will be assigned 8 tasks testing their web navigation performance in the two design style, respectively. The test is divided into two rounds according to the design style. So each participant will carry out 16 tasks totally. The task of each participant is identical and the sequence is a Latin square design for the sake of eliminating any position effect. Variables measured are:
-
-- Task time: The time for accomplishing a single task (in second). This variable is used as measure of efficiency in the web navigation.
-- Satisfaction:	Based on standard scale item of satisfaction using 5-point Likert-type scale with 1(strongly disagree) and 5(strongly agree).
-- Workload: The amount of work units assigned to a resource over a period of time, measured by NASA-TLX (Task Load Index) to obtain a subjective rating.
-- Error: The number of wrong click or choice when task target is specified.
+- Task time: The time for accomplishing a single task (in second);
+- Satisfaction:	A questionnaire measured using 5-point Likert scale;
+- Workload: The amount of efforts required for the task, measured by NASA-TLX (Task Load Index).
+- Error: The number of wrong clicks or choices for the search results.
 
 Simple visual design similar to western portals: 
 ![Simple visual design]({{ site.baseurl}}/images/sap_simple.png)
@@ -44,22 +41,20 @@ Complex visual design similar to major Chinese portals
 ##Results
 Important results of the experiment study are:  
 
-- The simple design style did not help participants gain more satisfaction, as it may be expected from a designer's perspective. Nor did the complex design style promote satisfaction when participants finish their tasks, as it may be expected psychologically. In other words, the design style does not make any positive difference in users' subjective satisfaction. From this point we reckon that satisfaction may not be the most important aspect when considering users' perception of web characteristics.
+- The simple design style did not help participants gain more satisfaction, as it may be expected from a designer's perspective. 
 
-- There are no significant differences in subjective workload between simple and complex design style, either between SAP and Tsinghua participants. This suggests that both the two participant groups are quite compatible to the complex design style, since increased performance time does not necessarily increase their subjective ratings on workload.
+- There were no significant differences in task workload between simple and complex design styles, for both groups of participants. This suggests that Internet experience did not significantly affect users' visual search performance on websites with different design styles.
 
-- One possible reason to explain why workload of all the participants did not significantly increase in the complex design style is that Chinese users may not consider performance time to be the most important factor when assessing subjective workload (though objective workload increases with time).
+- Participants took similar amounts of time to complete the visual search tasks with the two different design styles, even though they rated the complex design style with lower perceived usability.
 
-- Besides satisfaction, the most possible and important cue when investigating user attitude is Perceived Usability. Interface with complex design style has low perceived usability, especially from the new users' perspective. Chinese users often relate complex interface to high learning effort, and they tend to use or not use the system to the extent they believe how cost and benefit will be.
+- Chinese users might be customed to the complex design style because of the culture influence, which in turn improved their visual search performance and lowered thier task workload ratings. 
 
 
-We also found several interesting cultural patterns in Chinese websites:
+We also identified several interesting cultural patterns in Chinese websites at the time:
 
-- Chinese sites tend to show corporation advertisements (picture or flash) in the center of main page;
+- Chinese websites tended to show corporate advertisements (image or flash) in the center of homepage;
 
-- Both fixed menus and dynamic menus are preferred by Chinese web sites;
+- Both static menus and dynamic menus were used by Chinese web sites, with significantly higher number of menu items than western websites;
 
-- For buttons, there were advantages to pictorial and combined modes, compared with the textual mode (see figure below).  
+- Buttons on Chinese websites tended to combine pictorial icons and text labels, compared with buttons with either icon or label on western websites.  
 ![Mode]({{ site.baseurl}}/images/mode.png)
-
-Our analysis implies that to increase user satisfaction in the interface, the practitioner need to first understand that different external factors may have different impacts on satisfaction and user attitudes. In this study, changes in performance do not pose significant impact on satisfaction and subjective workload. Thus, satisfaction should be considered more thoroughly together with intrinsic performance gains. The experience from cognitive overload in Chinese web portals transferred into user's perceptions of workload, but this workload resulted from the complex visual design style did not necessarily lead to inferior task performance when the users are familiar with the design.

@@ -17,14 +17,14 @@ Due to the current shortage of nurses for patient services, existing nursing sta
 If future service robots are to directly interact with patients like human nurses do, patient emotional reactions will be an important aspect of such interaction ; however, few studies have examined emotional responses of users in interacting with robots. In a healthcare environment, a patient's emotional and social needs may be more important than traditional performance measures of human-robot interaction, such as efficiency and accuracy. Therefore, if knowledge of patient emotional responses to service robots is obtained, a design basis for future robots may be developed to facilitate positive patient experiences (e.g., in medicine delivery) and to increase the quality of healthcare.
 
 
-I proposed a research framework (figure below) addressing both the robot and the human user in the context of service applications. First, there may be psychological factors and individual differences (in experience, attitude, arousal, and expectation, etc.) that drive the tendency of anthropomorphizing robots during HRI. Opposite to this, a robot's physical appearance and interface features also affect perceived anthropomorphism and the quality of the human-robot interaction. The underlying hypothesis is that anthropomorphism in robot design serves to mediate the perception of functional capacity, social capability and, consequently, system outcomes. In the health care service context, the research framework considers patient emotional experiences activated by perceptions of a robot to be a critical measure of patient-robot interaction effectiveness, in addition to the traditional metrics of accuracy and efficiency in performance.
+I proposed a research framework (figure below) addressing both the robot and the human user in the context of service applications. First, there may be psychological factors and individual differences (in experience, attitude, arousal, and expectation, etc.) that drive the tendency of anthropomorphizing robots during HRI. Opposite to this, a robot's physical appearance and interface features also affect perceived anthropomorphism and the quality of the human-robot interaction. The underlying hypothesis is that anthropomorphism (human-like features) in robot design serves to mediate the perception of functional capacity, social capability and, consequently, system outcomes. 
 
 Research framework:  
 ![Research framework]({{ site.baseurl }}/{{ page.image }})
 
 
 ##Method
-Twenty-four participants sat in a simulated patient room and a service robot delivered a bag of "medicine" to them. Repeated trials were used to present variations on three robot features, including facial configuration, voice messaging and interactivity. Participant heart rate (HR) and galvanic skin response (GSR)were collected. Participant ratings of robot humanness [perceived anthropomorphism (PA)]were collected post-trial along with subjective ratings of arousal (bored–excited) and valence (unhappy–happy) using the self-assessment manikin (SAM) questionnaire.
+In the user test, 24 participants sat in a simulated patient room and a service robot delivered a bag of "medicine" to them. Repeated trials were used to present variations on three robot features, including facial configuration, voice messaging and interactivity. Participant heart rate (HR) and galvanic skin response (GSR)were collected. Participant ratings of robot humanness [perceived anthropomorphism] were collected post-trial along with subjective ratings of arousal (bored–excited) and valence (unhappy–happy) using the self-assessment manikin (SAM) questionnaire.
 
 Layout of the simulated patient room and events along the robot path:  
 ![Simulated patient room layout]({{ site.baseurl }}/images/layout.jpg)
@@ -45,7 +45,11 @@ Visual message and confirmation from robot on touch screen:
 ![Visual message and confirmation]({{ site.baseurl }}/images/touchinterface.jpg)
 
 ##Results
-Results indicated the presence of all three types of robot features promoted higher PA, arousal and valence, compared to a control condition (a robot without any of the features). Participant physiological responses varied with events in their interaction with the robot. The three types of features also had different utility for stimulating participant arousal and valence, as well as physiological responses. In general, results indicated that adding anthropomorphic and interactive features to service robots promoted positive emotional responses (increased excitement (GSR) and happiness (HR)) in elderly users. It is expected that results from this study could be used as a basis for developing affective robot interface design guidelines to promote user emotional experiences.
+Results indicated the presence of all three types of robot features promoted higher perceived human likeness, emotional arousal and valence, compared to a control condition (a robot without any of the features).
+
+Participant physiological responses varied with events in their interaction with the robot. The three types of features also had different utility for stimulating participant arousal and valence, as well as physiological responses. 
+
+In general, results indicated that adding anthropomorphic (human-like) and interactive features to service robots promoted positive emotional responses (increased excitement (GSR) and happiness (HR)) in elderly users. Results from this study could be used as a basis for developing affective robot interface design guidelines to promote user emotional experiences.
 
 
 ##Related publications:
