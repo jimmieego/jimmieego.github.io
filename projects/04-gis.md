@@ -26,19 +26,19 @@ I conducted usability evaluation of six popular web-based mapping applications, 
 
 - Proquest Statistical Datasets:   
 
-![Proquest Statistical Datasets]({{ site.baseurl }}/images/gis/proquest.png)
+![Proquest Statistical Datasets]({{ site.baseurl }}/images/gis/proquest.PNG)
 
 - Reference USA:   
 
-![Reference USA]({{ site.baseurl }}/images/gis/ReferenceUSA.png)
+![Reference USA]({{ site.baseurl }}/images/gis/ReferenceUSA.PNG)
 
 - SimplyMap:   
 
-![SimplyMap]({{ site.baseurl }}/images/gis/sm.png)
+![SimplyMap]({{ site.baseurl }}/images/gis/sm.PNG)
 
 - Social Explorer:   
 
-![Social Explorer]({{ site.baseurl }}/images/gis/se.png)
+![Social Explorer]({{ site.baseurl }}/images/gis/se.PNG)
 
 We recruited 18 students at Purdue to perform six tasks:  
 
