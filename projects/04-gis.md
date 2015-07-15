@@ -18,7 +18,7 @@ I conducted usability evaluation of six popular web-based mapping applications, 
 
 - ESRI Business Analyst Online:   
 
-![ESRI]({{ site.baseurl }}/images/gis/BAO.png)
+![ESRI]({{ site.baseurl }}/images/gis/bao.png)
 
 - PolicyMap:   
 
