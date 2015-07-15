@@ -22,23 +22,23 @@ I conducted usability evaluation of six popular web-based mapping applications, 
 
 - PolicyMap:   
 
-![ESRI]({{ site.baseurl }}/images/gis/pm.png)
+![PolicyMap]({{ site.baseurl }}/images/gis/pm.png)
 
 - Proquest Statistical Datasets:   
 
-![ESRI]({{ site.baseurl }}/images/gis/proquest.png)
+![Proquest Statistical Datasets]({{ site.baseurl }}/images/gis/proquest.png)
 
 - Reference USA:   
 
-![ESRI]({{ site.baseurl }}/images/gis/ReferenceUSA.png)
+![Reference USA]({{ site.baseurl }}/images/gis/ReferenceUSA.png)
 
 - SimplyMap:   
 
-![ESRI]({{ site.baseurl }}/images/gis/sm.png)
+![SimplyMap]({{ site.baseurl }}/images/gis/sm.png)
 
 - Social Explorer:   
 
-![ESRI]({{ site.baseurl }}/images/gis/se.png)
+![Social Explorer]({{ site.baseurl }}/images/gis/se.png)
 
 We recruited 18 students at Purdue to perform six tasks:  
 
