@@ -22,9 +22,11 @@ Purdue University Libraries, West Lafayette, IN
 
 **Projects** include:
 
-- User research, interface design and implementation of a crowdsourcing online help system for library users ([CrowdAsk](https://sites.lib.purdue.edu/crowdask/index.php)).  
+- Transaction log analysis and user tests for assessing e-books in academic libraries.
+- User research, interface design and implementation of a crowdsourcing online help system for library users ([CrowdAsk](https://sites.lib.purdue.edu/crowdask/index.php)).
+- Usability evaluation of web-based mapping applications.
 - User interface design for [Data Management Plan Tool](https://dmptool.org/).  
-- User study, interface design and usability evaluation for [Purdue University Libraries website](http://www.lib.purdue.edu).  
+- User study, interface design and usability evaluation for [Purdue University Libraries website](http://www.lib.purdue.edu).
 - Usability evaluation and user interface improvement for Human-Animal Bond Research Initiative Central website ([HABRI Central](http://habricentral.org)).
 
 ### Research Associate, 09/2009 to 10/2011
