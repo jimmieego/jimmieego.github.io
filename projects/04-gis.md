@@ -22,7 +22,7 @@ I conducted usability evaluation of six popular web-based mapping applications, 
 
 - PolicyMap:   
 
-![PolicyMap]({{ site.baseurl }}/images/gis/pm.png)
+![PolicyMap]({{ site.baseurl }}/images/gis/pm.PNG)
 
 - Proquest Statistical Datasets:   
 
