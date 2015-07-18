@@ -15,7 +15,6 @@ Discovery layers (or discovery tools) are search interfaces that use pre-indexin
 
 There have been a large body of literature on usability tests assessing discovery layers (or discovery tools) in the library context. Those tests were mostly focused on the search interface itself, and the testing tasks were often mismatches of users’ real search scenarios. Understanding how well a discovery tool supports users’ search goals and workflows remain a challenge.
 
-
 ##Method
 We conducted hierarchical task analysis (HTA) to evaluate how a discovery tool (Ex Libris Primo) supports 11 search cases. The search cases involved different formats (article, print book, and e-book) and availability (not available, available in print, available online, and available both in print and online), which present users with possible frustrations and obstacles.
 
