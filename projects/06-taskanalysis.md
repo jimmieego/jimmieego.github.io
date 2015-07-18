@@ -4,7 +4,7 @@ title: Applying Hierarchical Task Analysis Method to Discovery Tool Evaluation
 folder: projects
 type: project
 image: images/primo.png
-excerpt: This study presents the application of hierarchical task analysis as an expert-based and workflow centered method to evaluating discovery tools for library resources. We used Nielsen’s Goal Composition theory as an analytical framework to evaluate users' interaction with a discovery tool from two perspectives: a) users’ physical interactions (i.e., clicks), and b) user’s cognitive steps (i.e., decision points for what to do next).
+excerpt: This study presents the application of hierarchical task analysis as an expert-based and workflow centered method to evaluating discovery tools for library resources. We used Nielsen’s Goal Composition theory as an analytical framework to evaluate users' interaction with a discovery tool from two perspectives&#58; a) users’ physical interactions (i.e., clicks), and b) user’s cognitive steps (i.e., decision points for what to do next).
 ---
 
 **Method**: Task Analysis        
