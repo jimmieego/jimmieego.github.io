@@ -4,11 +4,15 @@ title: Applying Hierarchical Task Analysis Method to Discovery Tool Evaluation
 folder: projects
 type: project
 image: images/primo.png
-excerpt: This study presents the application of hierarchical task analysis as an expert-based and workflow centered method to evaluating discovery tools for library resources. We used Nielsen’s Goal Composition theory as an analytical framework to evaluate users' interaction with a discovery tool from two perspectives&#58; a) users’ physical interactions (i.e., clicks), and b) user’s cognitive steps (i.e., decision points for what to do next).
+excerpt: "This study presents the application of hierarchical task analysis as an expert-based and workflow centered method to evaluating discovery tools for library resources. We used Nielsen’s Goal Composition theory as an analytical framework to evaluate users' interaction with a discovery tool from two perspectives&#58; a) users’ physical interactions (i.e., clicks), and b) user’s cognitive steps (i.e., decision points for what to do next)."
+published: true
 ---
+
 
 **Method**: Task Analysis        
 **Tools**: XMind
+
+This project was the [Second Runner-Up](http://litablog.org/2015/06/congratulations-to-the-lita-ux-contest-winners/) of LITA's Contest: Great Library UX Ideas Under $100. 
 
 ##Challenge
 Discovery layers (or discovery tools) are search interfaces that use pre-indexing to provide speedy discovery of relevant materials across millions of records of library collections, from books and articles, to databases and digital archives. Discovery tools also aggregate hundreds of millions of scholarly e- resources, including journal articles, e-books, reviews, legal documents and more that are harvested from primary and secondary publishers and aggregators, and from open-access repositories. Discovery tools are projected to help create the next generation of federated search engines that utilize a single search index of metadata to search the rising volume of resources available for libraries.
