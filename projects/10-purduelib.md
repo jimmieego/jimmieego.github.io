@@ -16,8 +16,8 @@ The Purdue University Libraries website is a significant part of the Libraries' 
 ##Method    
 I first conducted focus groups with undergraduate and graduate students to understand their use of the library website and expectations. I also did one-and-one interviews with graduate students, faculty, and librarians to understand their information seeking behavior, preferences, and requirements. The focus groups and interviews provided valuable information for me to create personas and drive prototype development.  
 
-[Questions used in focus groups](/assets/FocusGroupScript.pdf)      
-[Questions used in interviews](/assets/UserInterviewScript.pdf)  
+[Questions used in focus groups]({{ site.baseurl }}/projects/assets/FocusGroupScript.pdf)      
+[Questions used in interviews]({{ site.baseurl }}/projects/assets/UserInterviewScript.pdf)  
 
 ##Personas  
 **Jenny**: 19, female, second year undergraduate student, English major.  
