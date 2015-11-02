@@ -17,17 +17,18 @@ Help information regarding library resources and tools is a critical part of lib
 
 We developed CrowdAsk, an open-source help system for academic libraries based on the concept of crowdsourcing. CrowdAsk supports voting of questions and answers by users as well as scores and badges for user motivation. Our implementation and evaluation with undergraduate classes at Purdue University showed that CrowdAsk is effective in meeting users’ information needs beyond traditional library reference help. Users have asked various types of questions and reached high levels of scores and badges in one semester’s time. We have integrated CrowdAsk with existing reference service and websites in Purdue University Libraries to continue developing the crowdsourcing community after the grant.
 
-This project was supported by a 2013-2014 Sparks! Ignition Grants for Libraries from Institute of Museums and Library Services (IMLS). For project details and assessment results, please download the [project report]({{ site.baseurl }}/projects/assets/LG-46-13-0239-13_WhitePaper.pdf).
-
-[CrowdAsk production site](https://sites.lib.purdue.edu/crowdask/)
-
-[CrowdAsk source code and documentation](https://github.com/crowdask0/crowdask)
-
 ##My Role
 My role in this project was user interface design and technical implementation. I created the functional requirements and use cases for system development and directed the graduate student developer in the system design and implementation process. I conducted user evaluations of the system and analyzed the results. As part of the project assessment, I conducted content analysis of the questions and answers on CrowdAsk, and I analyzed data from Google Analytics regarding the system’s usage.
 
 ##Project Presentation
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/lYNUK7yY60nXWZ" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jimmie/crowdsourcing-reference-help-helping-users-help-each-other" title="Crowdsourcing Reference Help: Helping Users Help Each Other" target="_blank">Crowdsourcing Reference Help: Helping Users Help Each Other</a> </strong> from <strong><a href="//www.slideshare.net/jimmie" target="_blank">Tao Zhang</a></strong> </div>
+
+##Project Report and Links
+This project was supported by a 2013-2014 Sparks! Ignition Grants for Libraries from Institute of Museums and Library Services (IMLS). For project details and assessment results, please download the [project report]({{ site.baseurl }}/projects/assets/LG-46-13-0239-13_WhitePaper.pdf).
+
+[CrowdAsk production site](https://sites.lib.purdue.edu/crowdask/)
+
+[CrowdAsk source code and documentation](https://github.com/crowdask0/crowdask)
 
 ##Related publications
 Stonebraker, I., and Zhang, T. (2014). CrowdAsk: Crowdsourcing Reference and Library Help. In D. A. Tyckoson and J. G. Dove (eds.), *Reimagining Reference in the 21st Century*, 285-293. West Lafayette, IN: Purdue University Press.
