@@ -10,6 +10,7 @@ published: true
 
 
 
+
 **Method**: Interface Design and Implementation, Usability Test        
 **Tools**: PHP, Morae, Google Analytics
 
@@ -27,7 +28,7 @@ My role in this project was user interface design and technical implementation. 
 ##Project Report and Links
 This project was supported by a 2013-2014 Sparks! Ignition Grants for Libraries from Institute of Museums and Library Services (IMLS). The project report below has the project details and assessment results.
 
-<object data="http://jimmieego.github.io/projects/assets/LG-46-13-0239-13_WhitePaper.pdf" type="application/pdf" width="600px" height="600px">
+<object data="http://jimmieego.github.io/projects/assets/LG-46-13-0239-13_WhitePaper.pdf" type="application/pdf" width="100%" height="600px">
 </object>
 
 Download the [project report]({{ site.baseurl }}/projects/assets/LG-46-13-0239-13_WhitePaper.pdf).
