@@ -26,15 +26,18 @@ The transaction log analysis showed that book searches have shorter query length
 
 The user evaluation involved 12 participants with various background and experience levels with e-books. The test tasks included searching for e-books on given topics and finding pieces of information in specific e-books. Similar to our findings from transaction logs, participants tended to use simple keyword search and browse the first page of search results. Reformulation of queries and the use of facets were less common compared to browsing results. We also found that e-book experience significantly affected how participants completed the information seeking tasks. The beginners conducted more searches within e-book than the intermediate and expert users, while expert users relied more on the Index, List of Images, List of Tables, and Table of Contents before using the search function. We have also identified a number of usability issues related to interface design and user required features of those e-book platforms.
 
+
+##Presentation
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lzMFT9153iRv1X" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+<div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jimmie/assessing-user-experience-of-ebooks-in-academic-libraries" title="Assessing User Experience of E-Books in Academic Libraries" target="_blank">Assessing User Experience of E-Books in Academic Libraries</a> </strong> from <strong><a href="//www.slideshare.net/jimmie" target="_blank">Tao Zhang</a></strong> </div>
+
+
 ##Project Report
 <object data="http://jimmieego.github.io/projects/assets/ERLFinalProjectReport.pdf" type="application/pdf" width="600px" height="600px">  
 </object>
 
 Download the [project report]({{ site.baseurl }}/projects/assets/ERLFinalProjectReport.pdf).
 
-##Presentation
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/lzMFT9153iRv1X" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-<div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jimmie/assessing-user-experience-of-ebooks-in-academic-libraries" title="Assessing User Experience of E-Books in Academic Libraries" target="_blank">Assessing User Experience of E-Books in Academic Libraries</a> </strong> from <strong><a href="//www.slideshare.net/jimmie" target="_blank">Tao Zhang</a></strong> </div>
 
 <!--
 [Appendix A]({{ site.baseurl }}/projects/assets/AppendixA.csv) and [Appendix B]({{ site.baseurl }}/projects/assets/AppendixB.csv).
