@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Usability Evaluation of Web-based Mapping Applications
+title: "Usability Evaluation of Web-based Mapping Applications"
 folder: projects
 type: project
 image: images/SimplyMap.png
-excerpt: I conducted usability evaluations of six popular web-based mapping applications including ESRI Business Analyst Online, PolicyMap, Proquest Statistical Datasets, Reference USA, SimplyMap, and Social Explorer.These applications are designed for users with little GIS experience to create data visulizations with geographic maps. It is thus important for the applications to balance the GIS funtionalities and users' learning efforts.    
+excerpt: "I conducted usability evaluations of six popular web-based mapping applications including ESRI Business Analyst Online, PolicyMap, Proquest Statistical Datasets, Reference USA, SimplyMap, and Social Explorer.These applications are designed for users with little GIS experience to create data visulizations with geographic maps. It is thus important for the applications to balance the GIS funtionalities and users' learning efforts."
+published: true
 ---
+
 
 **Method**: Usability Testing        
 **Tools**: Morae
@@ -61,7 +63,16 @@ We collected the following response measures:
 ##Results
 Our evaluation showed that participants encountered the most difficulties and confusions during the first ‘creating a customized map’ task and the last ‘exporting map’ task. An important reason is the lack of appropriate guidance on action sequence for new users (i.e., learnability was not well supported). Some applications require time to export maps, thus an effective file-ready notification design is important.
 
-For detailed results, please download the [user evaluation report](assets/gisusabilitytestreport.pdf) and a [summary](assets/gissummary.pdf) of usability findings for each application.
+
+##Project Report
+The summary of usability findings for each application is below.
+
+<object data="http://jimmieego.github.io/projects/assets/gissummary.pdf" type="application/pdf" width="600px" height="600px">
+</object>
+
+Download the [summary](assets/gissummary.pdf) of usability findings for each application.
+
+Download the [user evaluation report](assets/gisusabilitytestreport.pdf) for detailed project results.
 
 ##Related publications
 Kong, N., Zhang, T., & Stonebraker, I. (2015). [Evaluation of Web GIS Functionalities in Academic Libraries](http://www.sciencedirect.com/science/article/pii/S0143622814002720). *Applied Geography*, 60, 288-293.  
