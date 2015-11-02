@@ -26,7 +26,7 @@ The transaction log analysis showed that book searches have shorter query length
 The user evaluation involved 12 participants with various background and experience levels with e-books. The test tasks included searching for e-books on given topics and finding pieces of information in specific e-books. Similar to our findings from transaction logs, participants tended to use simple keyword search and browse the first page of search results. Reformulation of queries and the use of facets were less common compared to browsing results. We also found that e-book experience significantly affected how participants completed the information seeking tasks. The beginners conducted more searches within e-book than the intermediate and expert users, while expert users relied more on the Index, List of Images, List of Tables, and Table of Contents before using the search function. We have also identified a number of usability issues related to interface design and user required features of those e-book platforms.
 
 ##Project Report and Presentation
-<iframe src="http://docs.google.com/gview?url=https://github.com/jimmieego/jimmieego.github.io/blob/master/projects/assets/ERLFinalProjectReport.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url=https://github.com/jimmieego/jimmieego.github.io/blob/master/projects/assets/ERLFinalProjectReport.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 
 For detailed results, please download the [project report]({{ site.baseurl }}/projects/assets/ERLFinalProjectReport.pdf).
 
