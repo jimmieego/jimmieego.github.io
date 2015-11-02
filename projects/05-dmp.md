@@ -4,11 +4,14 @@ title: Interface Design for Data Management Planning Tool Website
 folder: projects
 type: project
 image: images/dmptool.png
-excerpt: Data Management Planning (DMP) Tool helps researchers create, review, and share data management plans that meet institutional and funder requirements.  
+excerpt: "Data Management Planning (DMP) Tool helps researchers create, review, and share data management plans that meet institutional and funder requirements."
+published: true
 ---
+
 
 **Method**: Wireframing        
 **Tools**: Axure
+**Wireframes Created**: [Wireframes for DMP Tool 2](http://ux.cdlib.org/mstrong/DMP_Prototype_0304/)
 
 ##Introduction
 Scholarly researchers today are increasingly required to engage in a range of data management activities to comply with institutional policies, or as a precondition for publication or grant funding. Data management plans are now a standard part of grant proposals for most funding agencies. To aid researchers in creating effective data management plans (DMPs), a group of organizations including California Digital Library and Purdue University Libraires collaborated on the development of the DMPTool, an online application that helps researchers create data management plans. 
@@ -28,8 +31,6 @@ I joined in the project in January 2013 and was able to quickly understand the n
 
 I quickly adapted to the needs of different stakeholders and maintained high quality, consistent interface designs for end users. Initial user tests confirmed that users are able to learn DMP Tool 2 quickly and use it without frustration and difficulty. 
 
-[Wireframes for DMP Tool 2](http://ux.cdlib.org/mstrong/DMP_Prototype_0304/)
-
 ##Creating Wireframes
 The rapid prototyping, or design of wireframes for DMPTool, involved multiple iterations of a three-step process: 
 
@@ -46,6 +47,9 @@ I used Axure for developing wireframes of DMPTool with a custom stencil library.
 I also developed individual pages for each possible page status depending on the context of user interaction. I actively communicated all designs with the stakeholder communities and applied their feedback in the design iterations. 
 
 Important changes to the functional requirements (and ultimately wireframes) based on stakeholder feedback include: DMP plan state transition table, publishing and sharing of DMP Plans, and DMP plan review workflow. The finalized wireframes were used as blueprints of the DMPTool application during the later implementation process.
+
+##Presentation
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sfQ2QHE7NGgqzx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jimmie/ux-design-for-dmptool-v2" title="UX Design for DMPTool v2" target="_blank">UX Design for DMPTool v2</a> </strong> from <strong><a href="//www.slideshare.net/jimmie" target="_blank">Tao Zhang</a></strong> </div>
 
 ##Related publications
 Zhang, T., and Witt, Michael. (September 6, 2013). [DMPTool: Expert Resources and Support for Data Management Planning](https://hubzero.org/resources/1062). Presentation at the *Fourth HUBzero Conference* (HUBbub 2013).
