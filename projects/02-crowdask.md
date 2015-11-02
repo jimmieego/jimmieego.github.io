@@ -11,6 +11,7 @@ published: true
 
 
 
+
 **Method**: Interface Design and Implementation, Usability Test        
 **Tools**: PHP, Morae, Google Analytics
 
@@ -23,7 +24,7 @@ We developed CrowdAsk, an open-source help system for academic libraries based o
 My role in this project was user interface design and technical implementation. I created the functional requirements and use cases for system development and directed the graduate student developer in the system design and implementation process. I conducted user evaluations of the system and analyzed the results. As part of the project assessment, I conducted content analysis of the questions and answers on CrowdAsk, and I analyzed data from Google Analytics regarding the system’s usage.
 
 ##Project Presentation
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/lYNUK7yY60nXWZ" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jimmie/crowdsourcing-reference-help-helping-users-help-each-other" title="Crowdsourcing Reference Help: Helping Users Help Each Other" target="_blank">Crowdsourcing Reference Help: Helping Users Help Each Other</a> </strong> from <strong><a href="//www.slideshare.net/jimmie" target="_blank">Tao Zhang</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lYNUK7yY60nXWZ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jimmie/crowdsourcing-reference-help-helping-users-help-each-other" title="Crowdsourcing Reference Help: Helping Users Help Each Other" target="_blank">Crowdsourcing Reference Help: Helping Users Help Each Other</a> </strong> from <strong><a href="//www.slideshare.net/jimmie" target="_blank">Tao Zhang</a></strong> </div>
 
 ##Project Report and Links
 This project was supported by a 2013-2014 Sparks! Ignition Grants for Libraries from Institute of Museums and Library Services (IMLS). The project report below has the project details and assessment results.
