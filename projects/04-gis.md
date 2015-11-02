@@ -67,7 +67,7 @@ Our evaluation showed that participants encountered the most difficulties and co
 ##Project Report
 The summary of usability findings for each application is below.
 
-<object data="http://jimmieego.github.io/projects/assets/gissummary.pdf" type="application/pdf" width="600px" height="600px">
+<object data="http://jimmieego.github.io/projects/assets/gissummary.pdf" type="application/pdf" width="100%" height="100%">
 </object>
 
 Download the [summary](assets/gissummary.pdf) of usability findings for each application.
