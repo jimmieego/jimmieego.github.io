@@ -13,6 +13,7 @@ published: true
 
 
 
+
 **Method**: Transaction Log Analysis, Usage Log Analysis, Experiment Design, User Tests, Pattern Analysis, Statistical Analysis      
 **Tools**: Python, MySQL, SAS, Morae
 
@@ -29,7 +30,7 @@ The user evaluation involved 12 participants with various background and experie
 
 
 ##Presentation
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/lzMFT9153iRv1X" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lzMFT9153iRv1X" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jimmie/assessing-user-experience-of-ebooks-in-academic-libraries" title="Assessing User Experience of E-Books in Academic Libraries" target="_blank">Assessing User Experience of E-Books in Academic Libraries</a> </strong> from <strong><a href="//www.slideshare.net/jimmie" target="_blank">Tao Zhang</a></strong> </div>
 
 
