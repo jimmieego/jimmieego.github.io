@@ -12,6 +12,7 @@ published: true
 
 
 
+
 **Method**: Transaction Log Analysis, Usage Log Analysis, Experiment Design, User Tests, Pattern Analysis, Statistical Analysis      
 **Tools**: Python, MySQL, SAS, Morae
 
@@ -33,7 +34,7 @@ The user evaluation involved 12 participants with various background and experie
 
 
 ##Project Report
-<object data="http://jimmieego.github.io/projects/assets/ERLFinalProjectReport.pdf" type="application/pdf" width="600px" height="600px">  
+<object data="http://jimmieego.github.io/projects/assets/ERLFinalProjectReport.pdf" type="application/pdf" width="100%" height="600px">  
 </object>
 
 Download the [project report]({{ site.baseurl }}/projects/assets/ERLFinalProjectReport.pdf).
