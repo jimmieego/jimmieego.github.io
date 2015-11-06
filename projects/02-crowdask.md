@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Design and Implement a Crowdsourced Library Help System
+title: Design and Implement a Crowdsourced Help System
 folder: projects
 type: project
 image: images/crowdask.png
 excerpt: "CrowdAsk is an open-source help system for academic libraries based on the concept of crowdsourcing. CrowdAsk supports voting of questions and answers by users as well as scores and badges for user motivation."
 published: true
 ---
+
 
 
 
