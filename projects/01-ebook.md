@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Assessing the User Experience of E-Books in Academic Libraries"
+title: "Assessing the User Experience of E-Books"
 folder: projects
 type: project
 image: "images/ebl-ebook.png"
 excerpt: "This is a comprehensive assessment of e-book user experience (search and information seeking) from transaction logs, e-book usage data, and user tests. I found differences between e-book and general searches in terms of query length, number of queries and actions per session. There are also distinctive reading patterns from e-book usage data. The user tests showed that experience levels with e-books and features of e-book platforms influenced users’ information seeking behavior. Results of this assessment have significant implications for the design of e-book features to support users’ reading strategies and help libraries create a consistent e-book user experience."
 published: true
 ---
+
 
 
 
