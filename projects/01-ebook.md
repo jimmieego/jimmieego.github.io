@@ -15,8 +15,9 @@ published: true
 
 
 
+
 **Method**: Transaction Log Analysis, Usage Log Analysis, Experiment Design, User Tests, Pattern Analysis, Statistical Analysis      
-**Tools**: Python, MySQL, SAS, Morae
+**Tools**: Python, MySQL, SAS, Morae, Tableau
 
 ##Challenge
 E-books have emerged as a new format of scholarly resources in academic libraries. Understanding how users search for and retrieve information from e-books is critical for libraries to assess the impact of e-books and develop a user-centered strategy to improving e-book collections.  
