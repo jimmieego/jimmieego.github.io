@@ -9,13 +9,6 @@ published: true
 ---
 
 
-
-
-
-
-
-
-
 **Method**: Transaction Log Analysis, Usage Log Analysis, Experiment Design, User Tests, Pattern Analysis, Statistical Analysis      
 **Tools**: Python, MySQL, SAS, Morae, Tableau
 
