@@ -3,24 +3,39 @@ layout: default
 ---
 
 <div class="posts">
-  {% for project in site.pages %}
-  	{% if project.type == 'project' %}
+  {% for post in paginator.posts %}
+  	
     <article class="post">
 
-      <h2><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h2>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-      <img src="{{ site.baseurl }}/{{ project.image }}" alt = "project cover image" class="coverimg"/>
+      <img src="{{ site.baseurl }}/{{ post.image }}" alt = "project cover image" class="coverimg"/>
       
       <div class="entry">
-        {{ project.excerpt }}
+        {{ post.excerpt }}
       </div>
 
       <p>
-        <a href="{{ site.baseurl }}{{ project.url }}" class="read-more">Read More</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </p>
 
     </article>
 
-   	{% endif %}
+   	
   {% endfor %}
+</div>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
 </div>

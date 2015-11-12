@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Redesign Purdue University Libraries Website
 folder: projects
 type: project

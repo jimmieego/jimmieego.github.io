@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Applying Hierarchical Task Analysis Method to Discovery Tool Evaluation
 folder: projects
 type: project

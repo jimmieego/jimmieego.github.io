@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: System of Human-Robot Interfaces for Emergency Response Teams
 folder: projects
 type: project
