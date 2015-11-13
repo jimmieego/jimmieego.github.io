@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 Tel.: 	(765) 496-3869 (O), (919) 448-5042 (M)  
 
 Email: 	[zhangtao2000@gmail.com](mailto:zhangtao2000@gmail.com) 
@@ -90,17 +91,17 @@ Institute of Human Factors and Ergonomics, Tsinghua University, Beijing, China
 
 
 ##SELECTED PUBLICATIONS
-Niu, X., **Zhang, T.**, & Chen, H. (2014). Study of user search activities with two discovery tools at an academic library. *International Journal of Human-Computer Interaction*, 30(5), 422-433.
+Niu, X., **Zhang, T.**, & Chen, H. (2014). [Study of user search activities with two discovery tools at an academic library](http://www.tandfonline.com/doi/abs/10.1080/10447318.2013.873281). *International Journal of Human-Computer Interaction*, 30(5), 422-433.
 
-**Zhang, T.**, Maron, D. J., & Charles, C. C. (2013). Usability evaluation of a research repository and collaboration website. _Journal of Web Librarianship_, 7(1), 58-82.
+**Zhang, T.**, Maron, D. J., & Charles, C. C. (2013). [Usability evaluation of a research repository and collaboration website](http://www.tandfonline.com/doi/abs/10.1080/19322909.2013.739041). _Journal of Web Librarianship_, 7(1), 58-82.
 
-**Zhang, T.** and Adams, J. A. (2012). Evaluation of a geospatial annotation tool for unmanned vehicle specialist interface. _International Journal of Human-Computer Interaction_, 28, 1-12.
+**Zhang, T.** and Adams, J. A. (2012). [Evaluation of a geospatial annotation tool for unmanned vehicle specialist interface](http://www.tandfonline.com/doi/abs/10.1080/10447318.2011.590122). _International Journal of Human-Computer Interaction_, 28, 1-12.
 
-**Zhang, T.**, Kaber, D. B., Zhu, B., Swangnetr, M., Mosaly, P., Hodge, L. (2010). Service robot feature design effects on user perceptions and emotional responses. _Intelligent Service Robotics_, 3(2), 73-88.
+**Zhang, T.**, Kaber, D. B., Zhu, B., Swangnetr, M., Mosaly, P., Hodge, L. (2010). [Service robot feature design effects on user perceptions and emotional responses](http://link.springer.com/article/10.1007/s11370-010-0060-9). _Intelligent Service Robotics_, 3(2), 73-88.
 
-**Zhang, T.**, Rau, P. L., Zhou, J. (2010). Consumer perceptions of mobile phone attributes. In _Proceedings of the 3rd International Conference on Applied Human Factors and Ergonomics_, Miami, FL.
+**Zhang, T.**, Rau, P. L., Zhou, J. (2010). [Consumer perceptions of mobile phone attributes](https://www.researchgate.net/publication/230710839_Consumer_Perception_of_Mobile_Phone_Attributes). In _Proceedings of the 3rd International Conference on Applied Human Factors and Ergonomics_, Miami, FL.
 
-Tu, N., **Zhang, T.**, & Dong, X. (2006). Personas creation and quantitative methods. In _Proceedings of the 7th Asia-Pacific Conference on Computer-Human Interaction_. Taipei, Taiwan.  
+Tu, N., Dong, X., Rau, P. L., & **Zhang, T.** (2010). [Using cluster analysis in Persona development](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5681684&tag=1). In _the 8th International Conference on Supply Chain Management and Information Systems (SCMIS)_. Hong Kong.  
 
 
 ##SKILLS
