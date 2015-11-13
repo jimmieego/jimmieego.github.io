@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Integrating Behavior User Studies with Log Analysis"
+title: Integrating Behavior User Studies with Log Analysis
 folder: projects
 type: project
 image: "images/log-test.png"
@@ -8,8 +8,9 @@ excerpt: "This is a UX assessment methodology I co-developed with Dr. Xi Niu at 
 published: true
 ---
 
+
 **Method**: Transaction Log Analysis, Log Visualization, Data-driven Task Design, Behavior Observation      
-**Tools**: Python, R, SAS
+**Tools**: Python, R, SAS, Morae
 
 ##Challenge  
 The library catalog (or discovery tool) transaction logs are believed as one of the important sources of big data in libraries. Although researchers can mine detailed information about users’ search behavior from logs, one of the obstacles of log analysis is the lack of contextual information such as users’ motivations, information needs, and step-by-step actions. Analyzing logs alone also has the danger of reaching oversimplified conclusions about search behavior without appropriate understanding of the tasks’ contexts and users’ preferences.
