@@ -293,6 +293,17 @@ footer {
   text-align: center;
 }
 
+.pagination {
+  text-align: left;
+  padding-top: 18px;
+  border-top: 1px solid #ddd;
+}
+
+.page_number {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
