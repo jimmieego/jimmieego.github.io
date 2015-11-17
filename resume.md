@@ -9,6 +9,7 @@ published: true
 
 
 
+
 Tel.: 	(765) 496-3869 (O), (919) 448-5042 (M)  
 
 Email: 	[zhangtao2000@gmail.com](mailto:zhangtao2000@gmail.com) 
@@ -118,7 +119,7 @@ Tu, N., Dong, X., Rau, P. L., & **Zhang, T.** (2010). [Using cluster analysis in
 
 
 ##AWARDS
-- Second Runner-Up, Great Library UX Ideas Under $100 Contest, Library and Information Technology Association (LITA), 2015  
+- Second Runner-Up, [Great Library UX Ideas Under $100 Contest](http://quod.lib.umich.edu/w/weave/12535642.0001.304?view=text;rgn=main), Library and Information Technology Association (LITA), 2015  
 - Outstanding Reviewer, *Library Hi Tech*, 2014  
 - Edward P. Fitts Fellowship, North Carolina State University, 2006-2008 
 - Tsinghua-Guanghua Scholarship, 2005  
