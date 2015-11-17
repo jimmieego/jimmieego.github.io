@@ -7,26 +7,26 @@ published: true
 
 
 
+
 Tel.: 	(765) 496-3869 (O), (919) 448-5042 (M)  
 
 Email: 	[zhangtao2000@gmail.com](mailto:zhangtao2000@gmail.com) 
 
 ## SUMMARY
-Human factors and user experience researcher skilled in user studies, conceptual design, information architecture, and usability evaluation. Analytical thinker trained as an engineer who prefers to focus on the human element in system design.
+Human factors and user experience researcher skilled in user studies, conceptual design, information architecture, and usability evaluation; Analytical thinker focusing on the human element in system design.
 
 ## EXPERIENCE
 ### Digital User Experience Specialist, 10/2011 to Present  
 Purdue University Libraries, West Lafayette, IN
 
-- Independently plan and conduct user research to identify user needs and goals through interviews, focus groups, and contextual inquiry.  
+- -	Plan and conduct user research to identify user needs of library website and online resources through web analytics, user interviews, and contextual inquiry.  
 - Work with development team and content owners to develop effective user interface and information architecture for library website, web applications and digital collections.  
-- Plan and conduct usability assessment to make design recommendations to stakeholders based on user feedback.  
 
 **Projects** include:
 
-- Transaction log analysis and user tests for assessing e-books in academic libraries.
-- User research, interface design and implementation of a crowdsourcing online help system for library users ([CrowdAsk](https://sites.lib.purdue.edu/crowdask/index.php)).
-- Usability evaluation of web-based mapping applications.
+- Log analysis and user tests for assessing e-books, supported by EBSCO.
+- User research, interface design and implementation of a crowdsourcing online help system ([CrowdAsk](https://sites.lib.purdue.edu/crowdask/index.php)).
+- Usability evaluation of web-based mapping applications including SimplyMap, Social Explorer and ESRI Business Analyst Online.
 - User interface design for [Data Management Plan Tool](https://dmptool.org/).  
 - User study, interface design and usability evaluation for [Purdue University Libraries website](http://www.lib.purdue.edu).
 - Usability evaluation and user interface improvement for Human-Animal Bond Research Initiative Central website ([HABRI Central](http://habricentral.org)).
@@ -36,29 +36,30 @@ Department of Electrical Engineering and Computer Science, Vanderbilt University
 
 **Project 1**: System of Interfaces for Human-Robot Interaction in Emergency Response Teams
 
-- Produced user requirements and design specifications based on cognitive task analysis to communicate and refine design concepts
-- Generated workflow and interaction designs for interface components
-- Planed, conducted, and analyzed qualitative and quantitative usability tests to validate existing and proposed interface designs
-- Developed reusable interface components to project code base
+- Conducted cognitive task analysis of robot operator’s workflow to generate design specifications.
+- Generated interaction and interface designs for system components.
+- Conducted usability tests with quantitative and qualitative data to validate interface designs.
+- Implemented reusable interface components for project code base.
 
 **Project 2**: Human Performance Modeling for Human-Robot Peer-Based Teams
 
-- Designed experiment and developed statistical models to assess task workload in a victim assessment scenario for human-human and human-robot teams
-- Worked with participants in the experiment, including briefing, training, physiological data and subjective feedback collection
+- Conducted experiment to assess task workload in victim assessment and area search scenarios for human-human and human-robot teams.
+- Developed statistical models to analyze physiological data and human performance measures.
+- Resulted in computational models for reliably predicting task workload in human-robot team.
 
 ### Graduate Research Assistant, 08/2006 to 08/2009
 Department of Industrial and Systems Engineering, North Carolina State University, Raleigh, NC
 
 **Project 1**: Anthropomorphism and Emotions in Human-Robot Interaction
 
-- Designed and configured a service robot for medicine delivery.  
+- Designed and configured a service robot for medicine delivery for elderly people.  
 - Conducted field evaluations with elderly end-users at two senior centers in North Carolina and collected physiological and subjective responses to robot interface features.  
 - Data analysis identified key interface features affecting user emotional experience (arousal and valence) in interacting with service robot.  
 
 **Project 2**: Use of Virtual Reality for Assessing Situation Awareness in Multitasking including Locomotion
 
-- Worked as experimenter with participants to collect gait and situation awareness measures.   
-- Conducted statistical data analysis and developed a model of situation awareness for multitasking with locomotion for explaining proactive gait control in response to locomotion hazards.  
+- Conducted experiment with participants navigating a virtual environment to collect gait and situation awareness measures.   
+- Developed statistical model of situation awareness for explaining proactive gait control in response to locomotion hazards.  
 
 
 ### Graduate Research Assistant, 09/2004 to 07/2006
@@ -66,20 +67,21 @@ Institute of Human Factors and Ergonomics, Tsinghua University, Beijing, China
 
 **Project 1**: eLong.com Travel Website Usability Test and Redesign
 
--	Conducted user interview and task analysis on existing website.  
--	Created user profiles (personas) for prototypes based on cluster analysis of user behavior.  
--	Conducted usability test of redesigned flight and hotel search results pages.  
+- Conducted user interview and task analysis on existing website interface.  
+- Created personas based on cluster analysis of user behavior patterns.  
+- Redesigned flight and hotel search results pages based on needs of personas.  
 
 **Project 2**: SAP-Supported Cross Culture User Interface Study
 
--	Designed web portal prototypes and measured Chinese users’ visual search performance.  
--	Statistical analysis indicated significant cultural differences of visual search pattern between Chinese and western visual styles.  
+- Designed interface prototypes for both Chinese and western visual styles.
+- Measured users’ visual search performance on interface prototypes.
+- Identified differences of visual search pattern between Chinese and western visual styles.  
 
 **Project 3**: Samsung Digital TV User Interface Evaluation and Improvement for Chinese Users
 
--	Conducted market survey and usability evaluation of existing Digital TV remote control hardware and interface designs.   
--	Developed interface prototypes based on Chinese user preferences.  
--	Proposed design guidelines to customize future Digital TVs for Chinese market.  
+- Conducted market survey and usability evaluation of existing remote control hardware and interface designs.   
+- Developed Digital TV interface prototypes based on Chinese users’ preferences.  
+- Proposed design guidelines for localizing future Digital TV interfaces for Chinese market.  
 
 
 ##EDUCATION
@@ -88,6 +90,16 @@ Institute of Human Factors and Ergonomics, Tsinghua University, Beijing, China
 **M.S.**, Industrial Engineering (Human-Computer Interaction), Tsinghua University, China, 2006
 
 **B.S.**, Industrial Engineering, Tsinghua University, China, 2004
+
+
+##SKILLS
+- Prototyping: Axure, Balsamiq, Sketch  
+- Development: HTML, JavaScript, CSS, C++, Python, R, SAS, Matlab  
+- User research tools: TechSmith Morae, Silverback, NVivo  
+- UX research methods including web analytics, interview and observation, survey, usability test, experiment design and statistical data analysis.
+- Working knowledge of human-computer interaction research, experiment design, and data analytics.
+- Leading research projects, planning schedule, driving execution, and managing resources.
+- Collaboration with cross-disciplinary teams and communication with different levels of stakeholders.
 
 
 ##SELECTED PUBLICATIONS
@@ -101,15 +113,7 @@ Niu, X., **Zhang, T.**, & Chen, H. (2014). [Study of user search activities with
 
 **Zhang, T.**, Rau, P. L., Zhou, J. (2010). [Consumer perceptions of mobile phone attributes](https://www.researchgate.net/publication/230710839_Consumer_Perception_of_Mobile_Phone_Attributes). In _Proceedings of the 3rd International Conference on Applied Human Factors and Ergonomics_, Miami, FL.
 
-Tu, N., Dong, X., Rau, P. L., & **Zhang, T.** (2010). [Using cluster analysis in Persona development](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5681684&tag=1). In _the 8th International Conference on Supply Chain Management and Information Systems (SCMIS)_. Hong Kong.  
-
-
-##SKILLS
-- Prototyping and conceptual design tools (Axure and Balsamiq)  
-- C++, SAS, Matlab  
-- Usability test tools (TechSmith Morae, Silverback)  
-- Working knowledge of human information processing, software engineering and user-centered interface design.  
-- Usability and user experience research methods including workflow analysis, interview and observation, heuristic evaluation, survey, usability test, experiment design and statistical analysis.
+Tu, N., Dong, X., Rau, P. L., & **Zhang, T.** (2010). [Using cluster analysis in Persona development](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5681684&tag=1). In _the 8th International Conference on Supply Chain Management and Information Systems (SCMIS)_. Hong Kong. 
 
 
 ##AWARDS
