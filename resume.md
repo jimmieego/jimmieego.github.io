@@ -8,6 +8,7 @@ published: true
 
 
 
+
 Tel.: 	(765) 496-3869 (O), (919) 448-5042 (M)  
 
 Email: 	[zhangtao2000@gmail.com](mailto:zhangtao2000@gmail.com) 
@@ -19,7 +20,7 @@ Human factors and user experience researcher skilled in user studies, conceptual
 ### Digital User Experience Specialist, 10/2011 to Present  
 Purdue University Libraries, West Lafayette, IN
 
-- -	Plan and conduct user research to identify user needs of library website and online resources through web analytics, user interviews, and contextual inquiry.  
+- Plan and conduct user research to identify user needs of library website and online resources through web analytics, user interviews, and contextual inquiry.  
 - Work with development team and content owners to develop effective user interface and information architecture for library website, web applications and digital collections.  
 
 **Projects** include:
