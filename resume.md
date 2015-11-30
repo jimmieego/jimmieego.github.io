@@ -10,7 +10,8 @@ published: true
 
 
 
-Tel.: 	(765) 496-3869 (O), (919) 448-5042 (M)  
+
+Tel.: 	(919) 448-5042  
 
 Email: 	[zhangtao2000@gmail.com](mailto:zhangtao2000@gmail.com) 
 
