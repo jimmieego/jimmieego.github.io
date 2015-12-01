@@ -17,7 +17,7 @@ This project was funded by the Office of Naval Research (ONR) and it was a Multi
 
 My responsibility for implementing the UV Specialist interface included:  
 
-* Generate interface and interaction specifications based on task analysis ([work sample](../assets/TaskAnalysisSample.pdf));  
+* Generate interface and interaction specifications based on task analysis ([work sample]({{ site.baseurl }}/projects/assets/TaskAnalysisSample.pdf));  
 * User interface and test application implementation using Qt;  
 * Design and conduct usability test of the interface;  
 * Qualitative and quantitative data analysis.  
