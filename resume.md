@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 Tel.: 	(919) 448-5042  
 
 Email: 	[zhangtao2000@gmail.com](mailto:zhangtao2000@gmail.com) 
@@ -25,7 +26,7 @@ Purdue University Libraries, West Lafayette, IN
 - Log analysis and user tests for assessing e-books, supported by EBSCO.
 - User research, interface design and implementation of a crowdsourcing online help system ([CrowdAsk](https://sites.lib.purdue.edu/crowdask/index.php)).
 - Usability evaluation of web-based mapping applications including SimplyMap, Social Explorer and ESRI Business Analyst Online.
-- User interface design for [Data Management Plan Tool](https://dmptool.org/).  
+- User interface design for [Data Management Planning Tool](https://dmptool.org/).  
 - User study, interface design and usability evaluation for [Purdue University Libraries website](http://www.lib.purdue.edu).
 - Usability evaluation and user interface improvement for Human-Animal Bond Research Initiative Central website ([HABRI Central](http://habricentral.org)).
 
