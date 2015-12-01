@@ -1,11 +1,13 @@
 ---
 layout: post
-title: System of Human-Robot Interfaces for Emergency Response Teams
+title: "System of Human-Robot Interfaces for Emergency Response Teams"
 folder: projects
 type: project
 image: images/muri_ems.jpg
-excerpt: I worked on the design and evaluation of a unmanned vehicle (UV) specialist interface that allows a single human supervisor to monitor and task multiple heterogeneous robots. The interface was designed to decrease the robot to human ratio. It increases the operator's awareness of the broad situation while still allows the operator to interact with each robot at an individual level. 
+excerpt: "I worked on the design and evaluation of a unmanned vehicle (UV) specialist interface that allows a single human supervisor to monitor and task multiple heterogeneous robots. The interface was designed to decrease the robot to human ratio. It increases the operator's awareness of the broad situation while still allows the operator to interact with each robot at an individual level."
+published: true
 ---
+
 
 **Method**: Cognitive Task Analysis, Workflow Analysis, Wireframing, Prototyping  
 **Tools**: Qt, Adobe Illustrator, Adobe Flash
@@ -15,7 +17,7 @@ This project was funded by the Office of Naval Research (ONR) and it was a Multi
 
 My responsibility for implementing the UV Specialist interface included:  
 
-* Generate interface and interaction specifications based on task analysis ([work sample](/assets/TaskAnalysisSample.pdf));  
+* Generate interface and interaction specifications based on task analysis ([work sample](../assets/TaskAnalysisSample.pdf));  
 * User interface and test application implementation using Qt;  
 * Design and conduct usability test of the interface;  
 * Qualitative and quantitative data analysis.  
