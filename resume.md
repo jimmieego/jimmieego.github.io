@@ -16,7 +16,7 @@ Human factors and user experience researcher skilled in user studies, conceptual
 
 ## EXPERIENCE
 
-### Digital User Experience Specialist, 10/2011 to Present  
+###Digital User Experience Specialist, 10/2011 to Present  
 Purdue University Libraries, West Lafayette, IN
 
 - Plan and conduct user research to identify user needs of library website and online resources through web analytics, user interviews, and contextual inquiry.  
@@ -31,7 +31,7 @@ Purdue University Libraries, West Lafayette, IN
 - User study, interface design and usability evaluation for [Purdue University Libraries website](http://www.lib.purdue.edu).
 - Usability evaluation and user interface improvement for Human-Animal Bond Research Initiative Central website ([HABRI Central](http://habricentral.org)).
 
-### Research Associate, 09/2009 to 10/2011
+###Research Associate, 09/2009 to 10/2011
 Department of Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TN
 
 **Project 1**: System of Interfaces for Human-Robot Interaction in Emergency Response Teams
@@ -47,7 +47,7 @@ Department of Electrical Engineering and Computer Science, Vanderbilt University
 - Developed statistical models to analyze physiological data and human performance measures.
 - Resulted in computational models for reliably predicting task workload in human-robot team.
 
-### Graduate Research Assistant, 08/2006 to 08/2009
+###Graduate Research Assistant, 08/2006 to 08/2009
 Department of Industrial and Systems Engineering, North Carolina State University, Raleigh, NC
 
 **Project 1**: Anthropomorphism and Emotions in Human-Robot Interaction
@@ -62,7 +62,7 @@ Department of Industrial and Systems Engineering, North Carolina State Universit
 - Developed statistical model of situation awareness for explaining proactive gait control in response to locomotion hazards.  
 
 
-### Graduate Research Assistant, 09/2004 to 07/2006
+###Graduate Research Assistant, 09/2004 to 07/2006
 Institute of Human Factors and Ergonomics, Tsinghua University, Beijing, China
 
 **Project 1**: eLong.com Travel Website Usability Test and Redesign
