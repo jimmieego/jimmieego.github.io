@@ -15,6 +15,7 @@ Email: 	[zhangtao2000@gmail.com](mailto:zhangtao2000@gmail.com)
 Human factors and user experience researcher skilled in user studies, conceptual design, information architecture, and usability evaluation; Analytical thinker focusing on the human element in system design.
 
 ## EXPERIENCE
+
 ### Digital User Experience Specialist, 10/2011 to Present  
 Purdue University Libraries, West Lafayette, IN
 
