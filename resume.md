@@ -98,6 +98,7 @@ Institute of Human Factors and Ergonomics, Tsinghua University, Beijing, China
 - User research tools: TechSmith Morae, Silverback, NVivo  
 - UX research methods including web analytics, interview and observation, survey, usability test, experiment design and statistical data analysis.
 - Working knowledge of human-computer interaction research, experiment design, and data analytics.
+- Working knowledge of WCAG 2.0 success criteria and Section 208 compliance requirements; screen readers (VoiceOver, NVDA, and Jaws) for manual testing; code review; and accessibility auto testing tools.
 - Leading research projects, planning schedule, driving execution, and managing resources.
 - Collaboration with cross-disciplinary teams and communication with different levels of stakeholders.
 
