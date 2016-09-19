@@ -47,7 +47,7 @@ Department of Electrical Engineering and Computer Science, Vanderbilt University
 - Developed statistical models to analyze physiological data and human performance measures.
 - Resulted in computational models for reliably predicting task workload in human-robot team.
 
-###Graduate Research Assistant, 08/2006 to 08/2009
+### Graduate Research Assistant, 08/2006 to 08/2009
 Department of Industrial and Systems Engineering, North Carolina State University, Raleigh, NC
 
 **Project 1**: Anthropomorphism and Emotions in Human-Robot Interaction
