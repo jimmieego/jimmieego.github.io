@@ -1,5 +1,5 @@
 ---
-layout: "page-no-title"
+layout: page-no-title
 title: Resume
 permalink: /resume/
 published: true
@@ -16,7 +16,7 @@ Human factors and user experience researcher skilled in user studies, conceptual
 
 ## EXPERIENCE
 
-###Digital User Experience Specialist, 10/2011 to Present  
+### Digital User Experience Specialist, 10/2011 to Present  
 Purdue University Libraries, West Lafayette, IN
 
 - Plan and conduct user research to identify user needs of library website and online resources through web analytics, user interviews, and contextual inquiry.  
@@ -31,7 +31,7 @@ Purdue University Libraries, West Lafayette, IN
 - User study, interface design and usability evaluation for [Purdue University Libraries website](http://www.lib.purdue.edu).
 - Usability evaluation and user interface improvement for Human-Animal Bond Research Initiative Central website ([HABRI Central](http://habricentral.org)).
 
-###Research Associate, 09/2009 to 10/2011
+### Research Associate, 09/2009 to 10/2011
 Department of Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TN
 
 **Project 1**: System of Interfaces for Human-Robot Interaction in Emergency Response Teams
@@ -62,7 +62,7 @@ Department of Industrial and Systems Engineering, North Carolina State Universit
 - Developed statistical model of situation awareness for explaining proactive gait control in response to locomotion hazards.  
 
 
-###Graduate Research Assistant, 09/2004 to 07/2006
+### Graduate Research Assistant, 09/2004 to 07/2006
 Institute of Human Factors and Ergonomics, Tsinghua University, Beijing, China
 
 **Project 1**: eLong.com Travel Website Usability Test and Redesign
@@ -84,7 +84,7 @@ Institute of Human Factors and Ergonomics, Tsinghua University, Beijing, China
 - Proposed design guidelines for localizing future Digital TV interfaces for Chinese market.  
 
 
-##EDUCATION
+## EDUCATION
 **Ph.D.**, Industrial and Systems Engineering (Human Factors), North Carolina State University, 2009
 
 **M.S.**, Industrial Engineering (Human-Computer Interaction), Tsinghua University, China, 2006
@@ -92,7 +92,7 @@ Institute of Human Factors and Ergonomics, Tsinghua University, Beijing, China
 **B.S.**, Industrial Engineering, Tsinghua University, China, 2004
 
 
-##SKILLS
+## SKILLS
 - Prototyping: Axure, Balsamiq, Sketch  
 - Development: HTML, JavaScript, CSS, C++, Python, R, SAS, Matlab  
 - User research tools: TechSmith Morae, Silverback, NVivo  
@@ -102,7 +102,7 @@ Institute of Human Factors and Ergonomics, Tsinghua University, Beijing, China
 - Collaboration with cross-disciplinary teams and communication with different levels of stakeholders.
 
 
-##SELECTED PUBLICATIONS
+## SELECTED PUBLICATIONS
 Niu, X., **Zhang, T.**, & Chen, H. (2014). [Study of user search activities with two discovery tools at an academic library](http://www.tandfonline.com/doi/abs/10.1080/10447318.2013.873281). *International Journal of Human-Computer Interaction*, 30(5), 422-433.
 
 **Zhang, T.**, Maron, D. J., & Charles, C. C. (2013). [Usability evaluation of a research repository and collaboration website](http://www.tandfonline.com/doi/abs/10.1080/19322909.2013.739041). _Journal of Web Librarianship_, 7(1), 58-82.
@@ -116,7 +116,7 @@ Niu, X., **Zhang, T.**, & Chen, H. (2014). [Study of user search activities with
 Tu, N., Dong, X., Rau, P. L., & **Zhang, T.** (2010). [Using cluster analysis in Persona development](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5681684&tag=1). In _the 8th International Conference on Supply Chain Management and Information Systems (SCMIS)_. Hong Kong. 
 
 
-##AWARDS
+## AWARDS
 - Second Runner-Up, [Great Library UX Ideas Under $100 Contest](http://quod.lib.umich.edu/w/weave/12535642.0001.304?view=text;rgn=main), Library and Information Technology Association (LITA), 2015  
 - Outstanding Reviewer, *Library Hi Tech*, 2014  
 - Edward P. Fitts Fellowship, North Carolina State University, 2006-2008 
@@ -127,14 +127,14 @@ Tu, N., Dong, X., Rau, P. L., & **Zhang, T.** (2010). [Using cluster analysis in
 - Tsinghua-OOCL Group Ltd. Scholarship, 2001
 
  
-##Invited Presentations
+## Invited Presentations
 - 11/06/2013, University of Nebraska-Lincoln Libraries, invited presentation. “User-centered design strategy for academic libraries websites.” 
 - 05/22/2012, UXPA Indiana Chapter, invited presentation. “Redesign of Purdue University Libraries website and usability evaluation of HABRI Central website.”
 - 06/02/2011, 3M Corporate Research and Development, SEMS Laboratory, St Paul, MN. “Measuring Human-Robot Interaction: Workload and Emotion.”
 
-##Professional Organizations
-- User Experience Professionals Association (UXPA), Indiana Chapter, Member (2011-present)
+## Professional Organizations
+- User Experience Professionals Association (UXPA), Indiana Chapter, Member (2011-2016)
 - Human Factors and Ergonomics Society (HFES), Student Member and Member (2007-2012)
-- American Library Association (ALA), Member (2011-present)
+- American Library Association (ALA), Member (2011-2016)
 - Institute of Industrial Engineers (IIE), Student Member and Member (2008-2011)
 - Association for Computing Machinery (ACM), Student Member and Member (2008-2011)
