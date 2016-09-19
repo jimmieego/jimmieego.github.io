@@ -16,7 +16,16 @@ Human factors and user experience researcher skilled in user studies, conceptual
 
 ## EXPERIENCE
 
-### Digital User Experience Specialist, 10/2011 to Present  
+### UX Architect, 04/2016 to present
+Esri, Inc., Redlands, CA
+
+- Create information architecture diagrams, user experience workflow diagrams, wireframes, proof-of-concepts, and interactive prototypes for ArcGIS platform products.
+- Effectively communicate conceptual ideas, design rationale, and the specifics of user centered design process
+- Ensure consistency between the various customer-facing platforms created by Esri.
+- Work in partnership with business stakeholders, graphic designers, and developers to design end-to-end experiences using participatory and iterative design techniques.
+Design and evaluate accessibility compliance of ArcGIS platform products using WCAG/Section 508 success criteria.
+
+### Digital User Experience Specialist, 10/2011 to 03/2016  
 Purdue University Libraries, West Lafayette, IN
 
 - Plan and conduct user research to identify user needs of library website and online resources through web analytics, user interviews, and contextual inquiry.  
