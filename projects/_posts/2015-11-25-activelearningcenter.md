@@ -1,17 +1,24 @@
 ---
 layout: post
-title: "Participatory Design of Purdue University's Active Learning Center"
+title: Participatory Design of Purdue University's Active Learning Center
 folder: projects
 type: project
-image: "images/activelearning.jpg"
-excerpt: "Active learning requires facilities that support small-group work, peer learning, the use of technology, and other classroom innovations. The Active Learning Center planned at Purdue is intended to provide classroom space combined seamlessly with library space to meet these needs. As part of an interdisciplinary team, we conducted a series of information-gathering activities to gain insight into the range of activities, work practices and preferences that the new Active Learning Center must support."
+image: images/activelearning.jpg
+excerpt: >-
+  Active learning requires facilities that support small-group work, peer
+  learning, the use of technology, and other classroom innovations. The Active
+  Learning Center planned at Purdue is intended to provide classroom space
+  combined seamlessly with library space to meet these needs. As part of an
+  interdisciplinary team, we conducted a series of information-gathering
+  activities to gain insight into the range of activities, work practices and
+  preferences that the new Active Learning Center must support.
 published: true
 ---
 
 **Method**: Observation, Design Workshops, Reply Cards, Interviews      
 **Tools**: Paper & Pencil, Cards, Excel
 
-##Challenge  
+##  Challenge  
 Purdue’s Active Learning Center (ALC) is aimed to be a facility that seamlessly combines library study and learning spaces with classrooms in one building; it will provide space, resources, services, and technology to support research and active learning.
 
 ![Active Learning Center Design Rendering]({{ site.baseurl }}/images/alc.jpg) 
@@ -23,7 +30,7 @@ In particular, we wanted to learn how the Libraries’ presence in the building 
 ![Active Learning Center Interior Space Design]({{ site.baseurl }}/images/alcspace.jpg)
 
 
-##Method  
+## Method  
 The main research activities of the project were:  
 
 - Observations, conducted in library and other selected spaces twice a day for a week early in the Spring 2013 semester;  
@@ -31,7 +38,7 @@ The main research activities of the project were:
 - Reply cards, which requested simple responses about work practices and workspace selection from more than a thousand people in library spaces;   
 - Five-minute interviews, breif indidvidual sessions with undergraduates in non-library campus locations.    
 
-##Results  
+## Results  
 With regard to undergraduates, we found that:  
 
 - Many undergraduates prefer to study in the library or in a library-like space because being there helps them focus, feel comfortable and secure, and do good work.
@@ -56,5 +63,5 @@ With regard to the library presence in the Active Learning Center, we found that
 
 Additionally, the Project Team emphasizes that the concept of the Library is changing so rapidly that it is hard to predict the ALC’s future needs. The design must allow for flexibility and change in work practices and in technology. 
 
-##Project Report   
-Fried Foster, Nancy; Balser, Teresa; Boes, Rae Lynn; Deputy, Dianna; Ferrall, William; Fosmire, Michael; Garritano, Jeremy R.; Gill, Amanda; Killion, Vicki; Kirkwood, Monica; Maybee, Clarence; Twardowski, Kristen; Yatcilla, Jane; and Zhang, Tao, "[Participatory Design of Purdue University’s Active Learning Center Final Report](http://docs.lib.purdue.edu/libreports/1)" (2013). Libraries Reports. 
+## Project Report   
+Fried Foster, Nancy; Balser, Teresa; Boes, Rae Lynn; Deputy, Dianna; Ferrall, William; Fosmire, Michael; Garritano, Jeremy R.; Gill, Amanda; Killion, Vicki; Kirkwood, Monica; Maybee, Clarence; Twardowski, Kristen; Yatcilla, Jane; and Zhang, Tao, "[Participatory Design of Purdue University’s Active Learning Center Final Report](http://docs.lib.purdue.edu/libreports/1)" (2013). Libraries Reports.
