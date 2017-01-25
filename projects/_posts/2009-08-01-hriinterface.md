@@ -1,10 +1,16 @@
 ---
 layout: post
-title: "System of Human-Robot Interfaces for Emergency Response Teams"
+title: System of Human-Robot Interfaces for Emergency Response Teams
 folder: projects
 type: project
 image: images/muri_ems.jpg
-excerpt: "I worked on the design and evaluation of a unmanned vehicle (UV) specialist interface that allows a single human supervisor to monitor and task multiple heterogeneous robots. The interface was designed to decrease the robot to human ratio. It increases the operator's awareness of the broad situation while still allows the operator to interact with each robot at an individual level."
+excerpt: >-
+  I worked on the design and evaluation of a unmanned vehicle (UV) specialist
+  interface that allows a single human supervisor to monitor and task multiple
+  heterogeneous robots. The interface was designed to decrease the robot to
+  human ratio. It increases the operator's awareness of the broad situation
+  while still allows the operator to interact with each robot at an individual
+  level.
 published: true
 ---
 
@@ -12,7 +18,7 @@ published: true
 **Method**: Cognitive Task Analysis, Workflow Analysis, Wireframing, Prototyping  
 **Tools**: Qt, Adobe Illustrator, Adobe Flash
 
-##Introduction
+## Introduction
 This project was funded by the Office of Naval Research (ONR) and it was a Multidisciplinary University Research Initiative Program (MURI) partnered with researchers at MIT and Stanford University.
 
 My responsibility for implementing the UV Specialist interface included:  
@@ -22,7 +28,7 @@ My responsibility for implementing the UV Specialist interface included:
 * Design and conduct usability test of the interface;  
 * Qualitative and quantitative data analysis.  
 
-##The UV(Unmanned Vehicle) Spelialist Interface
+## The UV(Unmanned Vehicle) Spelialist Interface
 The UV specialist interface is a Qt-based application designed to improve remote operator (UV specialist) situation awareness, while maintaining a collection of tasks and robot teams during an emergency incident scenario. 
 
 A screenshot of the UV Specialist interface:
@@ -32,7 +38,7 @@ The application is composed of a collection of widgets (components) that provide
 
 The UV Specialist interface is integrated with the ONR MURI system and allows the user to specify high-level commands, such as search an area for victims, that are allocated by MIT's mixed-initiative tasker to MIT's ground or aerial robots. The MIT mixed-initiative tasker can also allocate tasks autonomously to robots and notify the remote operator of such allocations. A touch screen version of the UV Specialist interface has been integrated with Kansas State University's robotic team.  
 
-##Evaluation of a Geospatial Annotation Tool for UV(Unmanned Vehicle) Specialist Interface
+## Evaluation of a Geospatial Annotation Tool for UV(Unmanned Vehicle) Specialist Interface
 I developed a map-based widget to support collaborative control of unmanned vehicles (i.e., robots). The widget had two annotation designs: the annotation contents were directly anchored on the map in the first design, while in the second design annotations were summarized in a separate panel on the interface. 
 
 **First Design**: Individual annotations directly anchored on the map
@@ -49,5 +55,5 @@ The evaluation results demonstrated the potential of using geospatial annotation
 
 The results above suggest that the user experience depends on the manner of obtaining information from the annotation tools, and the integration of the tool with user's task flow and other interface components, such as the map display. These findings can be used as a basis for designing geospatial annotation tools for team collaboration that better fit user needs and preferences.  
 
-##Related publications
+## Related publications
 Zhang, T., and Adams, J. A. (2012). [Evaluation of a geospatial annotation tool for UV(Unmanned Vehicle) specialist interface](http://www.tandfonline.com/doi/abs/10.1080/10447318.2011.590122#.VaHD7ZNViko). *International Journal of Human-Computer Interaction*, 28(6), 361-372.
