@@ -4,7 +4,15 @@ title: Redesign Purdue University Libraries Website
 folder: projects
 type: project
 image: images/homepage_mockup_0722.jpg
-excerpt: "The previous Purdue University Libraries website was designed several years ago. It was based on static HTML pages and there were usability issues due to inconsistency and outdated content. A redesign was needed to introduce a content management system and establish a consistent content strategy. I worked as a user experience researcher/designer to lead the redesign effort. I applied a typical user-centered design process for this project, starting from user research, persona creation, prototyping, implementation, to iterative user testing."
+excerpt: >-
+  The previous Purdue University Libraries website was designed several years
+  ago. It was based on static HTML pages and there were usability issues due to
+  inconsistency and outdated content. A redesign was needed to introduce a
+  content management system and establish a consistent content strategy. I
+  worked as a user experience researcher/designer to lead the redesign effort. I
+  applied a typical user-centered design process for this project, starting from
+  user research, persona creation, prototyping, implementation, to iterative
+  user testing.
 published: true
 ---
 
@@ -12,16 +20,16 @@ published: true
 **Method**: Focus Group, User Interview, Persona Creation, Content Analysis, Wireframing, Usability Testing    
 **Tools**: Balsamiq, Morae, Google Analytics
 
-##Background  
+## Background  
 The Purdue University Libraries website is a significant part of the Libraries' services, as the demand of online journals, books, and databases continues to increase. The design and user experience of the website is critical for the libraries to provide essential services to users. The previous website was implemented on static HTML pages. Content was difficult to update and user experience was not consistent across the website. The new website is built on Drupal content management system, which makes maintaining content and visual apperance much easier.
 
-##Method    
+## Method    
 I first conducted focus groups with undergraduate and graduate students to understand their use of the library website and expectations. I also did one-and-one interviews with graduate students, faculty, and librarians to understand their information seeking behavior, preferences, and requirements. The focus groups and interviews provided valuable information for me to create personas and drive prototype development.  
 
 [Questions used in focus groups]({{ site.baseurl }}/projects/assets/FocusGroupScript.pdf)      
 [Questions used in interviews]({{ site.baseurl }}/projects/assets/UserInterviewScript.pdf)  
 
-##Personas  
+## Personas  
 **Jenny**: 19, female, second year undergraduate student, English major.  
 
 *Quote*: "I use the library website to find papers and books."
@@ -54,10 +62,10 @@ I first conducted focus groups with undergraduate and graduate students to under
 
 *Information or Functions Needed*: Credible and high quality search results; flexible and easy to understand search and results refine options; better navigation of library guides and the library website; better understanding of library service, events, and reserach projects.
 
-##Project Presentation
+## Project Presentation
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6K3qadW0lCduqU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jimmie/purdue-website-redesign" title="Purdue website redesign" target="_blank">Purdue website redesign</a> </strong> from <strong><a href="//www.slideshare.net/jimmie" target="_blank">Tao Zhang</a></strong> </div>
 
-##Sample Prototypes  
+## Sample Prototypes  
 Homepage wireframe
 
 ![Homepage wireframe]({{ site.baseurl }}/images/Purdue/Homepage.png)
