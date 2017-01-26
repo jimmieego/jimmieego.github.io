@@ -18,7 +18,7 @@ published: true
 **Method**: Observation, Design Workshops, Reply Cards, Interviews      
 **Tools**: Paper & Pencil, Cards, Excel
 
-##  Challenge  
+## Challenge  
 Purdue’s Active Learning Center (ALC) is aimed to be a facility that seamlessly combines library study and learning spaces with classrooms in one building; it will provide space, resources, services, and technology to support research and active learning.
 
 ![Active Learning Center Design Rendering]({{ site.baseurl }}/images/alc.jpg) 
