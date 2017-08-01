@@ -23,7 +23,7 @@ Esri, Inc., Redlands, CA
 - Effectively communicate conceptual ideas, design rationale, and the specifics of user centered design process
 - Ensure consistency between the various customer-facing platforms created by Esri.
 - Work in partnership with business stakeholders, graphic designers, and developers to design end-to-end experiences using participatory and iterative design techniques.
-Design and evaluate accessibility compliance of ArcGIS platform products using WCAG/Section 508 success criteria.
+- Design and evaluate accessibility compliance of ArcGIS platform products using WCAG/Section 508 success criteria.
 
 ### Digital User Experience Specialist, 10/2011 to 03/2016  
 Purdue University Libraries, West Lafayette, IN
